@@ -1,0 +1,18 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
+This is the file where you can add your custom styles to change the look of the
+theme. But don't modify style-main.css file.
+
+*/
+
+/* Your custom css codes start here: */
+
+.bandeau-liens a:link, .bandeau-liens a:visited, #footer .subfooter a:link, #footer .subfooter a:visited {
+	color: #fff;	
+}
+
+.bandeau-liens a:hover, #footer .subfooter a:hover {
+	text-decoration: underline;
+}
