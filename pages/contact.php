@@ -1,158 +1,163 @@
-<!-- PAGE CONTENU
-================================================== -->
-<?	// CONTENU
-	list($titrep, $textep, $texte2p) = mysqli_fetch_array(mysqli_query($link, "SELECT titre,texte,texte2 FROM ".$table_prefix."_pages WHERE page='page' AND ID='$id' "));
-	$titred = preg_replace('/##PRIXTITRE##/',$prixtitre,trim($titred));
-	$titred = preg_replace('/##PRIXTITRE2##/',$prixtitre2,trim($titred));
+<?php	// Requête pour récupérer le contenu de la page concernée
+		list($titrep, $textep, $texte2p) = mysqli_fetch_array(mysqli_query($link, "SELECT titre, texte, texte2 FROM ".$table_prefix."_pages WHERE page='page' AND ID='$id' "));
 ?>
 
+<!-- Start main-content -->
+  <div class="main-content">
 
+    <!-- Section: inner-header -->
+    <section class="inner-header divider parallax layer-overlay overlay-dark-8" data-bg-img="http://placehold.it/1920x1280">
+      <div class="container pt-60 pb-60">
+        <!-- Section Content -->
+        <div class="section-content">
+          <div class="row"> 
+            <div class="col-md-12 xs-text-center">
+              <h3 class="title text-white">Contact</h3>
+              <ol class="breadcrumb mt-10 white">
+                <li><a class="text-white" href="<?php echo $defaultpg; ?>.php">Accueil</a></li>
+                <li class="active text-theme-colored"><?php echo $titrep; ?></li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Divider: Contact -->
+    <section class="divider">
+      <div class="container pt-sm-10 pb-sm-30">
+        <div class="row pt-30">
+          <div class="col-md-4">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="icon-box left media bg-deep p-30 mb-20"> <a class="media-left pull-left" href="#"> <i class="pe-7s-map-2 text-theme-colored"></i></a>
+                  <div class="media-body"> <strong>NOTRE ADRESSE</strong>
+                    <p>Hôpital Erasme, route de Lennik 808, Bruxelles</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-12">
+                <div class="icon-box left media bg-deep p-30 mb-20"> <a class="media-left pull-left" href="#"> <i class="pe-7s-call text-theme-colored"></i></a>
+                  <div class="media-body"> <strong>NOUS TÉLÉPHONER</strong>
+                    <p>+325 12345 65478</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-12">
+                <div class="icon-box left media bg-deep p-30 mb-20"> <a class="media-left pull-left" href="#"> <i class="pe-7s-mail text-theme-colored"></i></a>
+                  <div class="media-body"> <strong>NOUS ECRIRE</strong>
+                    <p><a href="mailto:info@angcp.be" target="_blank">info@angcp.be</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <h2 class="mt-0 mb-20 line-height-1">Nous sommes à votre écoute</h2>
+            <!-- Contact Form -->
+            <form id="contact_form" name="contact_form" class="" action="./includes/sendmail.php" method="POST">
 
-
-
-		<!-- TITRE
-		============================================= -->
-		<section id="page-title" style="">
-
-			<div class="container clearfix ">
-				<h1>Contact &amp; Plan</h1>
-				<span>Pour toute demande urgente, nous vous conseillons de privilégier le contact par téléphone au :</span> 
-				
-				<div class="col_half nobottommargin" style="margin-top: 25px;">
-					<b><i style="margin-right: 10px;" class="fa fa-phone-square" aria-hidden="true"></i>056 345 411</b><br />
-					<b><i style="margin-right: 10px;" class="fa fa-phone-square" aria-hidden="true"></i>+32 56 345 411</b> (pour les appels émis depuis la France)
-					<br /><br />
-					<ul>
-						<li style="list-style: none;">Le service ambulances est disponible <strong>7 jours/7 24h/24</strong></li>
-						<li style="list-style: none;">Le service de facturation est <strong>ouvert du lundi au vendredi de 9h à 15h</strong></li>
-					</ul>
-				</div>
-				
-				<div class="col_half col_last nobottommargin" style="margin-top: 25px;">
-					<strong>Tapez :</strong>
-					<ol style="margin-top: 15px;">
-						<li>pour un transport rapide ou dans la journée.</li>
-				        <li>pour une réservation de transport.</li>
-						<li>pour le secrétariat ou le service facturation.</li>
-				        <li>pour les patients dialysés.</li>
-					</ol>
-				</div>
-				
-			</div>
-
-		</section><!-- #page-title end -->
-
-		<!-- CARTE
-		============================================= -->
-		<section id="google-map" class="gmap slider-parallax"></section>
-
-
-
-	<section id="content">
-
-		<div class="content-wrap">
-			
-			<div class="container clearfix">
-				
-				<!-- FORMULAIRE
-				============================================= -->
-				<div class="col_half nobottommargin">
-
-					<div class="heading-block fancy-title nobottomborder title-bottom-border">
-						<h4>Nous contacter</h4>
-						
-					</div>
-
-					<div class="contact-widget">
-
-						<div class="contact-form-result"></div>
-
-						<form class="nobottommargin" id="template-contactform" name="template-contactform" action="include/sendemail.php" method="post">
-
-							<div class="form-process"></div>
-
-							<div class="col_one_third">
-								<label for="template-contactform-name">Nom, pr&Eacute;nom <small>*</small></label>
-								<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" />
-							</div>
-
-							<div class="col_one_third">
-								<label for="template-contactform-email">Email <small>*</small></label>
-								<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" />
-							</div>
-
-							<div class="col_one_third col_last">
-								<label for="template-contactform-phone">T&eacute;l&eacute;phone </label>
-								<input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control required" />
-							</div>
-
-							<div class="clear"></div>
-
-							<div class="col_full">
-								<label for="template-contactform-subject">Objet du message <small>*</small></label>
-								<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" />
-							</div>
-
-<!--
-							<div class="col_one_third col_last">
-								<label for="template-contactform-service">Services</label>
-								<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
-									<option value="">-- Concerne --</option>
-									<option value="Le ménage">Le ménage</option>
-									<option value="Le repassage">Le repassage</option>
-									<option value="La couture">La couture</option>
-									<option value="Autre">Autre</option>
-								</select>
-							</div>
--->
-
-							<div class="clear"></div>
-
-							<div class="col_full">
-								<label for="template-contactform-message">Votre message <small>*</small></label>
-								<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"></textarea>
-							</div>
-
-							<!--<div class="col_full hidden">
-								<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
-							</div>-->
-
-							<div class="col_full">
-								<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Envoyer</button>
-							</div>
-
-						</form>
-					</div>
-
-				</div><!-- .postcontent end -->
-				
-				<div class="col_half nobottommargin col_last">
-					<div class="heading-block fancy-title nobottomborder title-bottom-border">
-						<h4>Nous trouver</h4>
-					</div>
-					
-					<h5>Ambulances DHM</h5>
-					<span>	Rue du Nouveau Monde 106<br />
-							7700 Mouscron<br />
-							Belgique<br /><br />
-							
-							<strong>email :</strong> <a href="mailto:danny@ambulancesdhm.be">danny@ambulancesdhm.be</a>
-					</span>
-				</div>
-
-				<!-- COORDONNEES
-				============================================= -->
-				<div class="nobottommargin" style="clear:both; width:100%">
-					<address>
-						<?=$coordonnees?>
-					</address>
-				</div><!-- .sidebar end -->
-
-			</div>
-
-		</div>
-
-	</section>
-        
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="form-group">
+                    <label for="form_name">Nom <small>*</small></label>
+                    <input id="form_name" name="form_name" class="form-control" type="text" placeholder="Votre nom" required="">
+                  </div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="form-group">
+                    <label for="form_email">Email <small>*</small></label>
+                    <input id="form_email" name="form_email" class="form-control required email" type="email" placeholder="Votre Email">
+                  </div>
+                </div>
+              </div>
                 
-                
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="form_name">Objet <small>*</small></label>
+                    <input id="form_subject" name="form_subject" class="form-control required" type="text" placeholder="Objet de votre demande">
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label for="form_phone">Téléphone</label>
+                    <input id="form_phone" name="form_phone" class="form-control" type="text" placeholder="Votre téléphone">
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="form_name">Message</label>
+                <textarea id="form_message" name="form_message" class="form-control required" rows="5" placeholder="Votre Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="" />
+                <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Envoi en cours...">Envoyer votre message</button>
+                <button type="reset" class="btn btn-default btn-flat btn-theme-colored">Reset</button>
+              </div>
+            </form>
+
+            <!-- Contact Form Validation-->
+            <script type="text/javascript">
+              $("#contact_form").validate({
+                submitHandler: function(form) {
+                  var form_btn = $(form).find('button[type="submit"]');
+                  var form_result_div = '#form-result';
+                  $(form_result_div).remove();
+                  form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+                  var form_btn_old_msg = form_btn.html();
+                  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                  $(form).ajaxSubmit({
+                    dataType:  'json',
+                    success: function(data) {
+                      if( data.status == 'true' ) {
+                        $(form).find('.form-control').val('');
+                      }
+                      form_btn.prop('disabled', false).html(form_btn_old_msg);
+                      $(form_result_div).html(data.message).fadeIn('slow');
+                      setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
+                    }
+                  });
+                }
+              });
+            </script>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Divider: Google Map -->
+    <section>
+      <div class="container-fluid pt-0 pb-0">
+        <div class="row">
+          <!-- Google Map HTML Codes -->
+          <div 
+            data-address="Route de Lennik 808, 1070 Bruxelles, Belgique"
+            data-popupstring-id="#popupstring1"
+            class="map-canvas autoload-map"
+            data-mapstyle="style1"
+            data-height="400"
+            data-latlng="50.8134481,4.2637039"
+            data-title="ANGCP"
+            data-zoom="12"
+            data-marker="images/map-marker.png">
+          </div>
+          <div class="map-popupstring hidden" id="popupstring1">
+            <div class="text-center">
+	            <h4>ANGCP</h4>
+              <p style="font-weight: bold;">Association nationale des greffés cardiaques et pulmonaires</p>
+              <p>Route de Lennik 808, 1070 Bruxelles, Belgique</p>
+            </div>
+          </div>
+          <!-- Google Map Javascript Codes -->
+          <script src="http://maps.google.com/maps/api/js?key=AIzaSyAYWE4mHmR9GyPsHSOVZrSCOOljk8DU9B4"></script>
+          <script src="js/google-map-init.js"></script>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!-- end main-content -->
+
+
+					                
