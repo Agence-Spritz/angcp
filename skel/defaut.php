@@ -79,8 +79,15 @@ session_start(); ?>
 
   <!-- Header -->
   <header id="header" class="header">
+	  
+	<?php if($pg == $defaultpg) { ?> 
     <div class="header-nav navbar-fixed-top header-dark navbar-white navbar-transparent bg-transparent-1 navbar-sticky-animated animated-active">
       <div class="header-nav-wrapper">
+	<?php } else { ?>   
+	<div class="header-nav">
+      <div class="header-nav-wrapper navbar-scrolltofixed bg-lightest">
+	<?php } ?>     
+	      
         <div class="container">
           <nav id="menuzord-right" class="menuzord blue no-bg"><a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo $defaultpg; ?>.php" <?php if ($pg==$defaultpg) { echo 'active'; } else { echo ''; } ?>><img src="images/logo-wide.png" alt=""></a>
             <ul class="menuzord-menu">
@@ -141,7 +148,6 @@ session_start(); ?>
                 </li>
 
                 <li class="<?php if ($id==135) { echo 'active'; } ?>"><a href="contact-angcp-greffe-coeur-poumon--135--contact" title="Contactez-nous">Contact</a></li>
-
             </ul>
           </nav>
         </div>
