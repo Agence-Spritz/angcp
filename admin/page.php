@@ -28,11 +28,10 @@ if($modif=='135') {
 }  else {
 	$masquerdescription=0;
 }
-	
 
 
 // CHAMPS
-$chps=array('page','titre','texte','dbu','masquer','lg','rub', 'texte2');
+$chps=array('page','dbu','titre','id_page_parente','rub','texte','texte2','lg','masquer');
 $chpsNb = count($chps);
 ?>
 
@@ -82,12 +81,12 @@ if ( $Submit )
     } 
 	else 
 	{	mysqli_query($link, "INSERT INTO $tableencours SET $addquery1");
-	echo "INSERT INTO $tableencours SET $addquery1";
+	
 		if ( $vignette ) 	{ $updatevign= mysqli_insert_id($link).".jpg"; }
 		for ($a=1; $a<=$nbr; $a++){	if ( $_FILES['photo'.$a] ) { $updatefile[$a]=mysqli_insert_id($link)."-".$a.".jpg"; } }
 	  	$msg.= "<i class='fa fa-check-circle fa-2x'></i> Enregistrement ajout&eacute;";
     }
-	unset($ID,$titre,$texte,$dbu,$masquer,$lg,$rub,$texte2);
+	unset($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer);
 
 	// ENVOYER LES PHOTOS
 	$nom_tmp = $_FILES['vignette']['tmp_name']; sent_photo($updatevign,$nom_tmp,$chemin); 
@@ -107,8 +106,8 @@ if ( $Submit )
 // RECUPERATION DES VALEURS ENREGISTREES
 if ( $modif ) 
 {	$result = mysqli_fetch_array( mysqli_query($link, " SELECT ID,$liste1 FROM $tableencours WHERE ID='$modif' ") );
-	list($ID,$page,$titre,$texte,$dbu,$masquer,$lg,$rub,$texte2 ) = $result;
-	${$chps[3]}=date_barre(${$chps[3]});
+	list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer) = $result;
+	${$chps[1]}=date_barre(${$chps[1]});
 }  
 ?>
 	
@@ -151,15 +150,31 @@ if ( $modif )
 	
 							        <h4><i class='fa fa-pencil-square-o '></i> Titre</h4>
 							        <div class="form-group">
-								        <input name="<?=$chps[1]?>" value="<?=${$chps[1]}?>" class="form-control" type="text" required  />
+								        <input name="<?=$chps[2]?>" value="<?=${$chps[2]}?>" class="form-control" type="text" required  />
 							        </div>
 							        
-							        <?php if($modif=='120') { ?>
-								        <h4><i class='fa fa-pencil-square-o '></i> Sous-titre</h4>
-								        <div class="form-group">
-									        <input name="<?=$chps[7]?>" value="<?=${$chps[7]}?>" class="form-control" type="text" required  />
-								        </div>
-							        <?php } ?>
+							        
+							        <h4><i class='fa fa-pencil-square-o '></i> Sous-titre</h4>
+							        <div class="form-group">
+								        <input name="<?=$chps[6]?>" value="<?=${$chps[6]}?>" class="form-control" type="text"  />
+							        </div>
+							        
+							        <h4><i class='fa fa-list-ol fa-1x'></i> Page parente</h4>
+							        <div class="form-group">   
+							          	<select name="<?=$chps[3]?>" class="form-control">
+								          	<option value="">Page de premier niveau</option>
+							             <?
+								            $result = mysqli_query($link, "SELECT ID, titre FROM $tableencours WHERE page='page' GROUP BY titre ORDER BY titre asc") ;
+								          
+								            while ($data = mysqli_fetch_array($result)) 
+								            {	echo " <option value=".$data['ID'];
+								                if ( $data['ID']==$$chps[3] ) { print(" selected"); } 
+								                echo " >".$data['titre']."</option>";
+								            }		?>
+										</select>
+							        </div>
+
+							        
 									
 							</div> 
 							<div class="col-sm-12 col-md-6 ">
@@ -202,7 +217,7 @@ if ( $modif )
 			    
 					<?php if($masquerdescription!=1) { ?>
 				      <h4><i class='fa fa-align-justify '></i> Texte principal</h4>
-				      <textarea name="<?=$chps[2]?>" row contenu-admins="10" cols="50" ><?=${$chps[2]}?></textarea><script type="text/javascript">CKEDITOR.replace( '<?=$chps[2]?>' );</script>
+				      <textarea name="<?=$chps[5]?>" row contenu-admins="10" cols="50" ><?=${$chps[5]}?></textarea><script type="text/javascript">CKEDITOR.replace( '<?=$chps[5]?>' );</script>
 				    <?php } ?>
 				    
 				      <div class="clearfix"></div>
@@ -250,21 +265,34 @@ if ( $modif )
 							    <tr>
 							      <th>&nbsp;</th>
 							      <th><i class='fa fa-sort-numeric-asc '></i> - <i class='fa fa-flag '></i></th>
-							      <th><i class='fa fa-list-ol '></i></th>
-							      <th><i class='fa fa-pencil-square-o '></i></th>
-							      <th><i class='fa fa-align-justify'></i></th>
-							      <th><i class='fa fa-calendar '></i></th>
-							      <th>&nbsp;</th>
+							      <th><i class='fa fa-list-ol '></i> Page parente</th>
+							      <th><i class='fa fa-pencil-square-o '></i> Titre</th>
+							      <th><i class='fa fa-align-justify'></i> Rubrique</th>
+							      <th><i class='fa fa-calendar '></i> Mise à jour</th>
+							      
 						        </tr>
 					      	</thead>
 							<tbody>
 							  <?php 
-							  while ( list($ID,$page,$titre,$texte,$dbu,$masquer,$lg,$rub,$texte2) = mysqli_fetch_array($result) ) 
+							  while ( list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer) = mysqli_fetch_array($result) ) 
 							  { 
 							  	if ($masquer=="1") {$class="normalgrisclair";} else {$class="";}
+							  	
+							  		// Ici on fait la liaison entre l'ID de page parente enregistrée et son titre
+							  		$req_id_parent = mysqli_query($link,"SELECT titre FROM ".$table_prefix."_pages WHERE ID='".$id_page_parente."'");
+							  		
+							  		$data_id_parent = mysqli_fetch_assoc($req_id_parent);
+							  	
+							  		$page_parente = $data_id_parent['titre'];
+							  	
+							  		// On affiche l'angle que s'il y a une page parente.
+								  	if(!empty($page_parente)) {
+									  	$page_parente .= " <i class='fa fa-angle-right '></i> ";
+								  	}
+							  	
 							    echo "<tr class='".$class."'>";
 							    echo "<td><a href=\"?modif=$ID&word=$word\"><i class='fa fa-pencil '></i></a></td>";
-							    echo "<td>$ID - $lg</td><td>".$page." <i class='fa fa-angle-right '></i>".$rub."</td><td>".strip_tags($titre)."</td><td>".substr(strip_tags($texte),0,60)."...</td><td>".date_barre($dbu)."</td><td><!--<a href=\"?del=$ID&word=$word\"><i class='fa fa-trash-o '></i></a>--></td>";
+							    echo "<td>$ID - $lg</td><td>".$page_parente." </td><td>".strip_tags($titre)."</td><td>".strip_tags($rub)."</td><td>".date_barre($dbu)."</td>";
 							    echo "</tr>";
 							  }
 							 ?>
