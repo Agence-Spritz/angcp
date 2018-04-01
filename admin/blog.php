@@ -23,7 +23,7 @@ $redim_w=1000; $redim_h=750;
 $masquervignette=0;
 
 // Nombre de photo dispo
-$nbr=3;
+$nbr=0;
 
 // Si on veut desactiver la possibilité de mettre une rubrique
 // 1 = désactivé - 0 = actif
