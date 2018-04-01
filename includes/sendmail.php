@@ -1,19 +1,10 @@
-<?php
+<?php include "../admin/inc/openDB.txt";
+list($mail1) = mysqli_fetch_array(mysqli_query($link, "SELECT mail1 FROM angcp_divers WHERE ID=1 "));
 
 require_once('phpmailer/class.phpmailer.php');
 require_once('phpmailer/class.smtp.php');
 
 $mail = new PHPMailer();
-
-
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'just55.justhost.com';  // Specify main and backup SMTP servers
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'themeforest@ismail-hossain.me';                 // SMTP username
-$mail->Password = 'AsDf12**';                           // SMTP password
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 465;                                    // TCP port to connect to
 
 $message = "";
 $status = "false";
@@ -26,13 +17,16 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         $subject = $_POST['form_subject'];
         $phone = $_POST['form_phone'];
         $message = $_POST['form_message'];
+        
+        $type = "Contact";
+        
 
-        $subject = isset($subject) ? $subject : 'New Message | Contact Form';
+        $subject = isset($subject) ? $subject : 'Demande de contact';
 
         $botcheck = $_POST['form_botcheck'];
 
-        $toemail = 'spam.thememascot@gmail.com'; // Your Email Address
-        $toname = 'ThemeMascot'; // Your Name
+        $toemail = $mail1; // Your Email Address
+        $toname = 'ANGCP'; // Your Name
 
         if( $botcheck == '' ) {
 
@@ -40,24 +34,32 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
             $mail->AddReplyTo( $email , $name );
             $mail->AddAddress( $toemail , $toname );
             $mail->Subject = $subject;
+            $mail->CharSet = 'UTF-8';
 
-            $name = isset($name) ? "Name: $name<br><br>" : '';
-            $email = isset($email) ? "Email: $email<br><br>" : '';
-            $phone = isset($phone) ? "Phone: $phone<br><br>" : '';
-            $message = isset($message) ? "Message: $message<br><br>" : '';
+            $name_mail = isset($name) ? "Nom: $name<br><br>" : '';
+            $email_mail = isset($email) ? "Email: $email<br><br>" : '';
+            $phone_mail = isset($phone) ? "Télélphone: $phone<br><br>" : '';
+            $message_mail = isset($message) ? "Message: $message<br><br>" : '';
 
-            $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
+            $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>Ce message vous a été envoyé depuis : ' . $_SERVER['HTTP_REFERER'] : '';
 
-            $body = "$name $email $phone $message $referrer";
+            $body = "$name_mail $email_mail $phone_mail $message_mail $referrer";
 
             $mail->MsgHTML( $body );
             $sendEmail = $mail->Send();
-
+            
+            // ENREGISTREMENT DES FORMULAIRES DANS UNE TABLE
+			$dbu=date('Y-m-d H:i:s');
+			
+			$resultat_ins = mysqli_query ($link, "INSERT INTO ".$table_prefix."_contact ( `ID` , `type` ,`nom` ,`email` , `tel` , `dbu` , `message` )
+				VALUES ('' , '$type', '$name', '$email', '$phone',  '$dbu', '$body') ");
+			
+			
             if( $sendEmail == true ):
-                $message = 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.';
+                $message = 'Nous avons <strong>correctement</strong> reçu votre message, nous vous recontacterons dans les meilleurs délais.';
                 $status = "true";
             else:
-                $message = 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $mail->ErrorInfo . '';
+                $message = 'Votre message <strong>ne peut pas</strong> être envoyé suite à une erreur inattendue. Merci de bien vouloir réessayer.<br /><br /><strong>Cause éventuelle:</strong><br />' . $mail->ErrorInfo . '';
                 $status = "false";
             endif;
         } else {
@@ -65,11 +67,11 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
             $status = "false";
         }
     } else {
-        $message = 'Please <strong>Fill up</strong> all the Fields and Try Again.';
+        $message = 'Merci de renseigner <strong>tous les champs</strong> et de recommencer.';
         $status = "false";
     }
 } else {
-    $message = 'An <strong>unexpected error</strong> occured. Please Try Again later.';
+    $message = 'Une <strong>erreur</strong> est survenue. merci de recommencer.';
     $status = "false";
 }
 
