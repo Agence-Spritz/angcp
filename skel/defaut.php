@@ -74,7 +74,7 @@ session_start(); ?>
     <div id="spinner">
       <img src="images/preloaders/1.gif" alt="">
     </div>
-    <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
+    <div id="disable-preloader" class="btn btn-default btn-sm">Passer l'introduction</div>
   </div>
 
   <!-- Header -->
@@ -84,69 +84,63 @@ session_start(); ?>
         <div class="container">
           <nav id="menuzord-right" class="menuzord blue no-bg"><a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo $defaultpg; ?>.php" <?php if ($pg==$defaultpg) { echo 'active'; } else { echo ''; } ?>><img src="images/logo-wide.png" alt=""></a>
             <ul class="menuzord-menu">
-              <li class="active"><a href="#home">A propos</a>
+	            <?php // On va chercher les pages parentes
+	        	$req_parente = mysqli_query($link,"SELECT ID, id_page_parente FROM ".$table_prefix."_pages WHERE page='page' and ID='".$id."'");
+				$data_parente = mysqli_fetch_assoc($req_parente);
+				?>
+              <li class="<?php if ($data_parente['id_page_parente']==147) { echo 'active'; } ?>"><a href="#">A propos</a>
                 <ul class="dropdown">
-                      <li><a href="#">Mission du site</a></li>
-                      <li><a href="#">Historique</a></li>
-                      <li><a href="#">Objectifs</a></li>
-                      <li><a href="#">Status</a></li>
-                      <li><a href="#">Délégués</a></li>
-                      <li><a href="#">Campagne</a></li>
-                      <li><a href="#">Page des Pulmonaires</a></li>
-                      <li><a href="#">Journal</a></li>
-                      <li><a href="#">Photothèque</a></li>
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '147' ORDER BY dbu DESC"); 
+				  			while ($data = mysqli_fetch_array($req)) {
+					?>
+                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="a-propos-angcp-greffe-coeur-poumons--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+                    <?php } ?>
                 </ul>
               </li>
 
-              <li ><a href="#home">Le don d'organes</a>
+              <li class="<?php if ($data_parente['id_page_parente']==156) { echo 'active'; } ?>"><a href="#">Le don d'organes</a>
                 <ul class="dropdown">
-                      <li><a href="#">Sous menu 1</a></li>
-                      <li><a href="#">Sous menu 2</a></li>
-                      <li><a href="#">Sous menu 3</a></li>
-                      <li><a href="#">Sous menu 4</a></li>
-                      <li><a href="#">Sous menu 5</a></li>
-                      <li><a href="#">...</a></li>
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '156' ORDER BY dbu DESC"); 
+				  			while ($data = mysqli_fetch_array($req)) {
+					?>
+                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+                    <?php } ?>
                 </ul>
               </li>
 
-                <li ><a href="#home">Transplantation</a>
+                <li class="<?php if ($data_parente['id_page_parente']==162) { echo 'active'; } ?>"><a href="#">Transplantation</a>
                   <ul class="dropdown">
-                    <li><a href="#">Sous menu 1</a></li>
-                    <li><a href="#">Sous menu 2</a></li>
-                    <li><a href="#">Sous menu 3</a></li>
-                    <li><a href="#">Sous menu 4</a></li>
-                    <li><a href="#">Sous menu 5</a></li>
-                    <li><a href="#">Vade-Mecum</a></li>
-                    <li><a href="#">...</a></li>
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '162' ORDER BY dbu DESC"); 
+				  			while ($data = mysqli_fetch_array($req)) {
+					?>
+                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="transplantation-coeur-poumon--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+                    <?php } ?>
                   </ul>
                 </li>
 
-                <li ><a href="#home">Traitements</a>
-                    <ul class="dropdown">
-                      <li><a href="#">Kinésithérapie</a></li>
-                      <li><a href="#">Diététique</a></li>
-                      <li><a href="#">Vaccinations</a></li>
-                      <li><a href="#">Coeur artificiel</a></li>
-                      <li><a href="#">Quelques pionniers</a></li>
-                      <li><a href="#">...</a></li>
-                    </ul>
+                <li class="<?php if ($data_parente['id_page_parente']==170) { echo 'active'; } ?>"><a href="#">Traitements</a>
+                  <ul class="dropdown">
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '170' ORDER BY dbu DESC"); 
+				  			while ($data = mysqli_fetch_array($req)) {
+					?>
+                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="traitements-greffe-coeur-poumons--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+                    <?php } ?>
+                  </ul>
                 </li>
 
-                <li ><a href="#home">Témoignages</a></i>
+                <li class="<?php if ($id==176) { echo 'active'; } ?>"><a href="temoignages-transplantation-belgique--176--page">Témoignages</a></i>
 
-
-                <li ><a href="#home">Médias</a>
-                        <ul class="dropdown">
-                          <li><a href="#">Liens intéressants (lire + liens + trouvé sur la toile)</a></li>
-                          <li><a href="#">En dessins (humour)</a></li>
-                          <li><a href="#">Téléchargements</a></li>
-                          <li><a href="#">Sous menu 4</a></li>
-                          <li><a href="#">Sous menu 5</a></li>
-                          <li><a href="#">...</a></li>
-                        </ul>
+                <li class="<?php if ($data_parente['id_page_parente']==177) { echo 'active'; } ?>"><a href="#">Médias</a>
+                  <ul class="dropdown">
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '177' ORDER BY dbu DESC"); 
+				  			while ($data = mysqli_fetch_array($req)) {
+					?>
+                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+                    <?php } ?>
+                  </ul>
                 </li>
 
-                <li ><a href="contact-angcp-greffe-coeur-poumon--135--contact" title="Contactez-nous">Contact</a></li>
+                <li class="<?php if ($id==135) { echo 'active'; } ?>"><a href="contact-angcp-greffe-coeur-poumon--135--contact" title="Contactez-nous">Contact</a></li>
 
             </ul>
           </nav>
@@ -213,7 +207,7 @@ session_start(); ?>
     <div class="container-fluid bg-theme-colored p-20 subfooter">
       <div class="row text-center">
         <div class="col-md-12">
-          <p class="text-white font-11 m-0">&copy;2018 ANGCP-NVHL. <a href="mentions-legales-angcp--1--page" title="Contactez-nous">Mentions</a> - Création du site <a href="https://www.remixweb.eu" title="Création de sites" target="_blank">Remix Web</a> <img src='images/Salamandre.png'></p>
+          <p class="text-white font-11 m-0">&copy;2018 ANGCP-NVHL. <a href="mentions-legales-angcp--1--page" title="Contactez-nous">Mentions</a> - <a href="credits-angcp--181--page" title="Contactez-nous">Crédits</a> - Création du site <a href="https://www.remixweb.eu" title="Création de sites" target="_blank">Remix Web</a> <img src='images/Salamandre.png'></p>
         </div>
       </div>
     </div>
