@@ -2,31 +2,19 @@ function initialize() {
 
     // Multiple Markers
     var markers = [
-        ['Memorial Park, Madison', 40.756945,-74.397612],
-        ['Drew University, 36 Madison Ave', 40.762926,-74.422159],
-        ['Brooklake Country Club, 139 Brooklake Rd', 40.765461,-74.378471]
+        ['ANGCP', 50.8134481,4.2637039]
     ];
                         
     // Info Window Content
     var infoWindowContent = [
         ['<div class="info_content">' +
-        '<h3>London Eye</h3>' +
-        '<p>The London Eye is a giant Ferris wheel situated on the banks of the River Thames. The entire structure is 135 metres (443 ft) tall and the wheel has a diameter of 120 metres (394 ft).</p>' +        '</div>'],
-        ['<div class="info_content">' +
-        '<h3>Palace of Westminster</h3>' +
-        '<p>The Palace of Westminster is the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the Houses of Parliament after its tenants.</p>' +
-        '</div>'],
-        ['<div class="info_content">' +
-        '<h3>Westminster Bridge</h3>' +
-        '<p>The Palace of Westminster is the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the Houses of Parliament after its tenants.</p>' +
-        '</div>']
+        '<h3>ANGCP</h3>' +
+        '<p>Association nationale des greffés cardiaques et pulmonaires</p>' + '</div>']
     ];
 
     // Multiple Pointers with Different Colors
     var mapPointers = [
-        ['images/map-marker.png'],
-        ['images/map-marker2.png'],
-        ['images/map-marker3.png']
+        ['images/map-marker.png']
     ];
 
 
@@ -44,14 +32,7 @@ function initialize() {
     var map_pointer = current_item.data('marker');
 
     var mapOptions = {
-        scrollwheel: false,
-        scaleControl: true,
-        disableDefaultUI: true,
-        panControl: true,
-        zoomControl: true, //zoom
-        mapTypeControl: true,
-        streetViewControl: true,
-        overviewMapControl: true,
+        
         styles: THEMEMASCOT_googlemap_styles[map_style ? map_style : 'default'],
         mapTypeId: 'roadmap'
     };
