@@ -518,6 +518,7 @@ iframe {
   position: absolute;
   top: 10px;
   width: 30px;
+  background: #c30e2d;
 }
 .title-icon::before {
   content: "";
@@ -526,6 +527,7 @@ iframe {
   right: 20px;
   top: 10px;
   width: 30px;
+  background: #c30e2d;
 }
 /* -------- List ---------- */
 ul,
@@ -587,6 +589,45 @@ ul.list.list-white li a {
   -o-transition: all 300ms ease-in;
   transition: all 300ms ease-in;
 }
+
+
+.main-content ul {
+  list-style: outside none none;
+  margin-top: 13px;
+  padding-left: 0;
+}
+.main-content ul li {
+  margin: 5px 0;
+  font-weight: 500;
+  padding-left: 15px;
+  position: relative;
+}
+.main-content ul li:before {
+  border: none;
+  color: #c30e2d;
+  content: "\f111";
+  display: inline-block;
+  font-family: fontawesome;
+  font-size: 9px;
+  margin-right: 10px;
+  padding: 0;
+  left: 0;
+  position: absolute;
+  top: 5px;
+}
+.main-content ul li:hover:before {
+  background: none;
+  border-color: transparent;
+}
+.main-content ul li a {
+  text-decoration: none;
+  -webkit-transition: all 300ms ease-in;
+  -o-transition: all 300ms ease-in;
+  transition: all 300ms ease-in;
+}
+
+
+
 /* -------- List border bottom ---------- */
 ul.list-border-bottom li {
   border-bottom: 1px solid #eeeeee;
@@ -4515,6 +4556,15 @@ blockquote p {
 .funfact h2 {
   position: relative;
 }
+
+.funfact h3 {
+  color: #fff;
+}
+
+.bg-theme-colored h3 {
+	color: #fff;
+}
+
 .funfact h2:after {
   bottom: 0;
 }
