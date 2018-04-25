@@ -7,10 +7,10 @@ $tableencours = $table_prefix."_pages";
 $page = "page"; 										// Variable pour definir la sous cat page
 
 // PHOTOS
-$photosize = "1140x390";									// Dimensions idéales d'information pour la photo
+$photosize = "1500x1125";									// Dimensions idéales d'information pour la photo
 $chemin = "../images/pages-don-d-organes-coeur-poumons-belgique/";  							// "/" à la fin
 $wmax = 100; $hmax = 80;  $tdvisuphoto = $wmax*2+20;  	// Dimension pour affichage des vigettes
-$redim_w=1140; $redim_h=390;
+$redim_w=1500; $redim_h=1125;
 
 // masquer les vignettes pour certaines pages
 // Page contact
@@ -27,11 +27,12 @@ if($modif=='135') {
 	
 }  else {
 	$masquerdescription=0;
+	$nbr=4; // Nombre de photos
 }
 
 
 // CHAMPS
-$chps=array('page','dbu','titre','id_page_parente','rub','texte','texte2','lg','masquer');
+$chps=array('page','dbu','titre','id_page_parente','rub','texte','texte2','texte3','modele_de_page','lg','masquer');
 $chpsNb = count($chps);
 ?>
 
@@ -86,7 +87,7 @@ if ( $Submit )
 		for ($a=1; $a<=$nbr; $a++){	if ( $_FILES['photo'.$a] ) { $updatefile[$a]=mysqli_insert_id($link)."-".$a.".jpg"; } }
 	  	$msg.= "<i class='fa fa-check-circle fa-2x'></i> Enregistrement ajout&eacute;";
     }
-	unset($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer);
+	unset($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$texte3,$modele_de_page,$lg,$masquer);
 
 	// ENVOYER LES PHOTOS
 	$nom_tmp = $_FILES['vignette']['tmp_name']; sent_photo($updatevign,$nom_tmp,$chemin); 
@@ -106,7 +107,7 @@ if ( $Submit )
 // RECUPERATION DES VALEURS ENREGISTREES
 if ( $modif ) 
 {	$result = mysqli_fetch_array( mysqli_query($link, " SELECT ID,$liste1 FROM $tableencours WHERE ID='$modif' ") );
-	list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer) = $result;
+	list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$texte3,$modele_de_page,$lg,$masquer) = $result;
 	${$chps[1]}=date_barre(${$chps[1]});
 }  
 ?>
@@ -154,11 +155,6 @@ if ( $modif )
 							        </div>
 							        
 							        
-							        <h4><i class='fa fa-pencil-square-o '></i> Sous-titre</h4>
-							        <div class="form-group">
-								        <input name="<?=$chps[6]?>" value="<?=${$chps[6]}?>" class="form-control" type="text"  />
-							        </div>
-							        
 							        <h4><i class='fa fa-list-ol fa-1x'></i> Page parente</h4>
 							        <div class="form-group">   
 							          	<select name="<?=$chps[3]?>" class="form-control">
@@ -173,9 +169,16 @@ if ( $modif )
 								            }		?>
 										</select>
 							        </div>
-
 							        
-									
+							        <h4><i class='fa fa-newspaper fa-1x'></i> Modèle de page</h4>
+							        <div class="form-group">   
+							          	<select name="<?=$chps[8]?>" class="form-control">
+								          	<option value="1" <?php if($$chps[8]==1) {echo "selected";}  ?>>Modèle 1</option>
+								          	<option value="2" <?php if($$chps[8]==2) {echo "selected";}  ?>>Modèle 2</option>
+								          	<option value="3" <?php if($$chps[8]==3) {echo "selected";}  ?>>Modèle 3</option>
+										</select>
+							        </div>
+	
 							</div> 
 							<div class="col-sm-12 col-md-6 ">
 								<?php if ($masquervignette!=1) { ?>
@@ -216,8 +219,18 @@ if ( $modif )
 					<div class="col-sm-12 col-md-12 texte-principal">
 			    
 					<?php if($masquerdescription!=1) { ?>
-				      <h4><i class='fa fa-align-justify '></i> Texte principal</h4>
+				      <h4><i class='fa fa-align-justify '></i> Zone de texte 1</h4>
 				      <textarea name="<?=$chps[5]?>" row contenu-admins="10" cols="50" ><?=${$chps[5]}?></textarea><script type="text/javascript">CKEDITOR.replace( '<?=$chps[5]?>' );</script>
+				      
+				      <hr>
+				      
+				      <h4><i class='fa fa-align-justify '></i> Zone de texte 2</h4>
+				      <textarea name="<?=$chps[6]?>" row contenu-admins="10" cols="50" ><?=${$chps[6]}?></textarea><script type="text/javascript">CKEDITOR.replace( '<?=$chps[6]?>' );</script>
+				      
+				      <hr>
+				      
+				      <h4><i class='fa fa-align-justify '></i> Zone de texte 3</h4>
+				      <textarea name="<?=$chps[7]?>" row contenu-admins="10" cols="50" ><?=${$chps[7]}?></textarea><script type="text/javascript">CKEDITOR.replace( '<?=$chps[7]?>' );</script>
 				    <?php } ?>
 				    
 				      <div class="clearfix"></div>
@@ -274,7 +287,7 @@ if ( $modif )
 					      	</thead>
 							<tbody>
 							  <?php 
-							  while ( list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$lg,$masquer) = mysqli_fetch_array($result) ) 
+							  while ( list($ID,$page,$dbu,$titre,$id_page_parente,$rub,$texte,$texte2,$texte3,$modele_de_page,$lg,$masquer) = mysqli_fetch_array($result) ) 
 							  { 
 							  	if ($masquer=="1") {$class="normalgrisclair";} else {$class="";}
 							  	
