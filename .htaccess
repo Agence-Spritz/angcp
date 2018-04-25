@@ -2,9 +2,9 @@ ErrorDocument 404 /index.php
 
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} ^immoarcades.com$ [NC]
+RewriteCond %{HTTP_HOST} ^angcp.be$ [NC]
 
-RewriteRule ^(.*)$ http://www.immoarcades.com/$1 [QSA,R=301,L]
+RewriteRule ^(.*)$ http://www.angcp.be/$1 [QSA,R=301,L]
 
 ##############################
 
