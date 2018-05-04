@@ -16,3 +16,11 @@ theme. But don't modify style-main.css file.
 .bandeau-liens a:hover, #footer .subfooter a:hover {
 	text-decoration: underline;
 }
+
+table.historique tr td {
+	padding: 15px;
+}
+
+table.historique {
+	width: 100%;
+}
