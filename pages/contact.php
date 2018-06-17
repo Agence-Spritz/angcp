@@ -6,7 +6,7 @@
   <div class="main-content">
 
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-8" data-bg-img="http://placehold.it/1920x1280">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-3" data-bg-img="images/fond-contact.jpg">
       <div class="container pt-60 pb-60">
         <!-- Section Content -->
         <div class="section-content">

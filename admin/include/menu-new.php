@@ -97,7 +97,7 @@ foreach($_COOKIE as $key => $val)	{$$key=$val;}
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		      <a class="navbar-brand" href="http://www.koreton.be"><img src="./img/salamandre.png" title="Remix Web - création de sites internet" alt="Remix Web - création de sites internet"/></a>
+		      <a class="navbar-brand" href="#"><img src="./img/salamandre.png" title="Remix Web - création de sites internet" alt="Remix Web - création de sites internet"/></a>
 		    </div>
 		
 		    <!-- Collect the nav links, forms, and other content for toggling -->
@@ -105,7 +105,7 @@ foreach($_COOKIE as $key => $val)	{$$key=$val;}
 		      <ul class="nav navbar-nav">
 		        <li <?php  if (strpos($url,'page.php') !== false) { echo 'class="active"'; } ?> ><a href="page.php">Pages </a></li>
 		        <li <?php  if (strpos($url,'actus.php') !== false) { echo 'class="active"'; } ?> ><a href="blog.php">Actualités </a></li>
-		        
+		        <li <?php  if (strpos($url,'faq.php') !== false) { echo 'class="active"'; } ?> ><a href="faq.php">FAQ Don d'organes </a></li>
 		        
 		        <li class="dropdown">
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gestion <span class="caret"></span></a>

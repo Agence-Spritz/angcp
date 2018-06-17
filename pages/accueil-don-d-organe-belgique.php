@@ -127,7 +127,7 @@
 		                      <?php if (is_file('./images/pages-don-d-organes-coeur-poumons-belgique/'.$data['ID'].'.jpg')) { ?>
 									<img src="<?php echo './images/pages-don-d-organes-coeur-poumons-belgique/'.$data['ID'].'.jpg'; ?>" alt="<?php echo $data['titre']; ?>" title="<?php echo $data['titre']; ?>" />
 								<?php } else { ?>
-									<img src="http://kodesolution.com/demo/wxyz/z/medikal/v4.0/demo/images/depertments/s2.jpg" alt="Association nationale des greffés cardiaques et pulmonaires" title="Association nationale des greffés cardiaques et pulmonaires" class="img-responsive img-fullwidth">
+									<img src="images/depertments/s2.jpg" alt="Association nationale des greffés cardiaques et pulmonaires" title="Association nationale des greffés cardiaques et pulmonaires" class="img-responsive img-fullwidth">
 								<?php } ?>
 	                      </div>
 	                      <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">

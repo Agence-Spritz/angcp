@@ -24,3 +24,21 @@ table.historique tr td {
 table.historique {
 	width: 100%;
 }
+
+
+.faq .panel-group .panel-title a.active {
+	color: #333;
+}
+
+table#dates-cle tr {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+table#dates-cle tr td {
+	padding: 15px;
+}
+
+table#pionniers tr td {
+	padding: 15px;
+}

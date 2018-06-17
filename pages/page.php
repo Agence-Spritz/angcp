@@ -24,7 +24,7 @@
 	
 	
 	    <!-- Section: inner-header -->
-	    <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="<?php if (is_file('./images/pages-don-d-organes-coeur-poumons-belgique/'.$id.'.jpg')) {  echo './images/pages-don-d-organes-coeur-poumons-belgique/'.$id.'.jpg'; } ?>">
+	    <section class="inner-header divider parallax layer-overlay overlay-white-6" data-bg-img="<?php if (is_file('./images/pages-don-d-organes-coeur-poumons-belgique/'.$id.'.jpg')) {  echo './images/pages-don-d-organes-coeur-poumons-belgique/'.$id.'.jpg'; } ?>">
 	      <div class="container pt-60 pb-60">
 	        <!-- Section Content -->
 	        <div class="section-content">

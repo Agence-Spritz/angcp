@@ -97,7 +97,7 @@ session_start(); ?>
 				?>
               <li class="<?php if ($data_parente['id_page_parente']==147) { echo 'active'; } ?>"><a href="#">A propos</a>
                 <ul class="dropdown">
-	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '147' ORDER BY dbu DESC"); 
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '147' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="a-propos-angcp-greffe-coeur-poumons--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
@@ -107,17 +107,18 @@ session_start(); ?>
 
               <li class="<?php if ($data_parente['id_page_parente']==156) { echo 'active'; } ?>"><a href="#">Le don d'organes</a>
                 <ul class="dropdown">
-	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '156' ORDER BY dbu DESC"); 
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '156' AND id<>'157' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
                     <?php } ?>
+                    <li class="<?php if ($id==157) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--157--faq">FAQ Don d'organes</a></li>
                 </ul>
               </li>
 
                 <li class="<?php if ($data_parente['id_page_parente']==162) { echo 'active'; } ?>"><a href="#">Transplantation</a>
                   <ul class="dropdown">
-                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '162' ORDER BY dbu DESC"); 
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '162' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="transplantation-coeur-poumon--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
@@ -127,7 +128,7 @@ session_start(); ?>
 
                 <li class="<?php if ($data_parente['id_page_parente']==170) { echo 'active'; } ?>"><a href="#">Traitements</a>
                   <ul class="dropdown">
-                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '170' ORDER BY dbu DESC"); 
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '170' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="traitements-greffe-coeur-poumons--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
@@ -139,7 +140,7 @@ session_start(); ?>
 
                 <li class="<?php if ($data_parente['id_page_parente']==177) { echo 'active'; } ?>"><a href="#">Médias</a>
                   <ul class="dropdown">
-                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '177' ORDER BY dbu DESC"); 
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '177' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
