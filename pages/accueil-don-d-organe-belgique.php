@@ -113,11 +113,8 @@
 	              
 	              	<?php $req = mysqli_query($link,"SELECT ID, titre, dbu, rub, texte FROM ".$table_prefix."_pages WHERE page='blog' AND masquer <> '1'  ORDER BY dbu DESC"); 
 				  	while ($data = mysqli_fetch_array($req)) { 
-					  	
 					  	//$date = date_fr($data['dbu']);
 					  	$date = new DateTime($data['dbu']);
-					  	
-					  	 
 					?>
 					
 	                <div class="item">
