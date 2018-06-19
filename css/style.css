@@ -21,9 +21,14 @@ table.historique tr td {
 	padding: 15px;
 }
 
-table.historique {
+table#liensutiles tr td {
+	padding: 15px;
+}
+
+table.historique, table#liensutiles {
 	width: 100%;
 }
+
 
 
 .faq .panel-group .panel-title a.active {
@@ -41,6 +46,14 @@ table#dates-cle tr td {
 
 table#pionniers tr td {
 	padding: 15px;
+}
+
+.main-content a:link, .main-content a:visited {
+	color: #c30e2d;
+}
+
+.main-content a:hover {
+	color: #ccc;
 }
 
 .main-content ul {

@@ -105,7 +105,9 @@ foreach($_COOKIE as $key => $val)	{$$key=$val;}
 		      <ul class="nav navbar-nav">
 		        <li <?php  if (strpos($url,'page.php') !== false) { echo 'class="active"'; } ?> ><a href="page.php">Pages </a></li>
 		        <li <?php  if (strpos($url,'actus.php') !== false) { echo 'class="active"'; } ?> ><a href="blog.php">Actualités </a></li>
+		        <li <?php  if (strpos($url,'temoignages.php') !== false) { echo 'class="active"'; } ?> ><a href="temoignages.php">Les témoignages </a></li>
 		        <li <?php  if (strpos($url,'faq.php') !== false) { echo 'class="active"'; } ?> ><a href="faq.php">FAQ Don d'organes </a></li>
+		        <li <?php  if (strpos($url,'pionniers.php') !== false) { echo 'class="active"'; } ?> ><a href="pionniers.php">Les pionniers </a></li>
 		        
 		        <li class="dropdown">
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gestion <span class="caret"></span></a>

@@ -126,6 +126,7 @@ session_start(); ?>
                   </ul>
                 </li>
 
+<!--
                 <li class="<?php if ($data_parente['id_page_parente']==170) { echo 'active'; } ?>"><a href="#">Traitements</a>
                   <ul class="dropdown">
                     <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '170' ORDER BY ID ASC"); 
@@ -135,8 +136,10 @@ session_start(); ?>
                     <?php } ?>
                   </ul>
                 </li>
+-->
+				<li class="<?php if ($id==175) { echo 'active'; } ?>"><a href="quelques-pionniers--175--pionniers">Quelques pionniers</a></li>
 
-                <li class="<?php if ($id==176) { echo 'active'; } ?>"><a href="temoignages-transplantation-belgique--176--page">Témoignages</a></i>
+<!--                 <li class="<?php if ($id==176) { echo 'active'; } ?>"><a href="temoignages-transplantation-belgique--176--page">Témoignages</a></i> -->
 
                 <li class="<?php if ($data_parente['id_page_parente']==177) { echo 'active'; } ?>"><a href="#">Médias</a>
                   <ul class="dropdown">
