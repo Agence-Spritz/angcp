@@ -11,12 +11,12 @@ $tableencours = $table_prefix."_pages";
 $lapage = "pionnier"; 	
 
 // PHOTOS
-$photosize = "1000x750"; // Dimensions idéales d'information pour la photo
+$photosize = "1000x685"; // Dimensions idéales d'information pour la photo
 
 // le repertoir du dossier où m'on range les images, tout peut etre ds le même dossier
 $chemin = "../images/pages-don-d-organes-coeur-poumons-belgique/";  // "/" à la fin
 $wmax = 100; $hmax = 80;  $tdvisuphoto = $wmax*2+20;  	// Dimension pour affichage des vigettes
-$redim_w=1000; $redim_h=750;
+$redim_w=1000; $redim_h=685;
 
 // Si on veut desactiver les vignettes pour ce gabarit de page
 // 1 = désactivé - 0 = actif

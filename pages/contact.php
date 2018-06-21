@@ -3,7 +3,7 @@
 ?>
 
 <!-- Start main-content -->
-  <div class="main-content">
+  <div class="main-content allpages">
 
     <!-- Section: inner-header -->
     <section class="inner-header divider parallax layer-overlay overlay-dark-3" data-bg-img="images/fond-contact.jpg">

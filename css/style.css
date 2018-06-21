@@ -48,11 +48,11 @@ table#pionniers tr td {
 	padding: 15px;
 }
 
-.main-content a:link, .main-content a:visited {
+.main-content.allpages a:link, .main-content.allpages a:visited {
 	color: #c30e2d;
 }
 
-.main-content a:hover {
+.main-content.allpages a:hover {
 	color: #ccc;
 }
 

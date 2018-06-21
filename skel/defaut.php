@@ -97,11 +97,12 @@ session_start(); ?>
 				?>
               <li class="<?php if ($data_parente['id_page_parente']==147) { echo 'active'; } ?>"><a href="#">A propos</a>
                 <ul class="dropdown">
-	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '147' ORDER BY ID ASC"); 
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '147' AND id<>155 ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="a-propos-angcp-greffe-coeur-poumons--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
                     <?php } ?>
+                    <li class="<?php if ($id==155) { echo 'active'; } ?>"><a href="en-images-photos--155--phototheque">Photothèque</a></li>
                 </ul>
               </li>
 
@@ -143,11 +144,12 @@ session_start(); ?>
 
                 <li class="<?php if ($data_parente['id_page_parente']==177) { echo 'active'; } ?>"><a href="#">Médias</a>
                   <ul class="dropdown">
-                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '177' ORDER BY ID ASC"); 
+                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '177' AND id<>179 ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
                     <?php } ?>
+                    <li class="<?php if ($id==179) { echo 'active'; } ?>"><a href="dessins-humour--179--dessins">En dessins (humour)</a></li>
                   </ul>
                 </li>
 

@@ -5,7 +5,7 @@
 ?>
 
 <!-- Start main-content -->
-  <div class="main-content">
+  <div class="main-content allpages">
   
     <!-- Section: inner-header -->
     <section class="inner-header divider parallax layer-overlay overlay-dark-8" data-bg-img="'images/pages-don-d-organes-coeur-poumons-belgique/<?=$id?>.jpg'">

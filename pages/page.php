@@ -12,7 +12,7 @@
 		} ?>
 
 	<!-- Start main-content -->
-	<div class="main-content">
+	<div class="main-content allpages">
     
     <!-- ---------------
 	

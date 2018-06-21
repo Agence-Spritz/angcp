@@ -108,6 +108,8 @@ foreach($_COOKIE as $key => $val)	{$$key=$val;}
 		        <li <?php  if (strpos($url,'temoignages.php') !== false) { echo 'class="active"'; } ?> ><a href="temoignages.php">Les témoignages </a></li>
 		        <li <?php  if (strpos($url,'faq.php') !== false) { echo 'class="active"'; } ?> ><a href="faq.php">FAQ Don d'organes </a></li>
 		        <li <?php  if (strpos($url,'pionniers.php') !== false) { echo 'class="active"'; } ?> ><a href="pionniers.php">Les pionniers </a></li>
+		        <li <?php  if (strpos($url,'dessins.php') !== false) { echo 'class="active"'; } ?> ><a href="dessins.php">Les dessins </a></li>
+		        <li <?php  if (strpos($url,'phototheque.php') !== false) { echo 'class="active"'; } ?> ><a href="phototheque.php">Photothèque </a></li>
 		        
 		        <li class="dropdown">
 		          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gestion <span class="caret"></span></a>

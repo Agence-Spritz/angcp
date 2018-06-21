@@ -12,7 +12,7 @@
 		} ?>
 
 	<!-- Start main-content -->
-	<div class="main-content faq">
+	<div class="main-content">
     
      
 	<!-- ---------------
