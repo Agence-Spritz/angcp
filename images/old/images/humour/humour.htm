@@ -1,0 +1,173 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Date" content="05/10/98">
+<meta name="Last-Modified" content="03/12/02">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="GLOBAL">
+<meta name="author" content="Georges Niset">
+<meta name="description" content="Dessins humoristiques sur la probl&eacute;matique de la transplantation et du don d'organes">
+<meta name="classification" content="sant&eacute;,m&eacute;decine,cardiologie,association">
+<meta name="keywords" content="ANGCP,angcp,Serdu,transplantation,greffe,don d'organes,coeur,cardiaque,poumon,poumons,pulmonaire,cardio-pulmonaire">
+<meta name="Reply-To" content="georges.niset@pi.be">
+<meta http-equiv="Reply-To" content="georges.niset@pi.be">
+<meta name="Identifier-URL" content="http://www.angcp.be">
+<meta name=Robots content="index, follow" >
+<meta http-equiv="content-language" content="fr">
+<link href="../../style/angcp.css" rel="stylesheet" type="text/css">
+<title>Humour</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+//Remerciements pour ce script trouvé sur http://www.toutjavascript.com
+function clicie() {
+	// Fonction de détection pour Internet Explorer
+	if ((event.button==2)||(event.button==3)) {
+		alert("Respectez les droits d'auteur! Si vous souhaitez utiliser un de ces dessins, écrivez nous.");
+	}
+}
+function clicns(e){
+	// Fonction pour Netscape
+	if(e.which==3){
+		alert("Respectez les droits d'auteur! Si vous souhaitez utiliser un de ces dessins, écrivez nous.");
+		return false;
+	}
+}
+
+
+if (document.all) {	document.onmousedown=clicie;}
+if (document.layers) {document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clicns;}
+if (window.sidebar) {document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clicns;}
+
+</SCRIPT>
+
+</head>
+
+<body>
+<table class="none">
+  <tr>
+    <td width="41" class="none"><a href="http://www.angcp.be"><img src="../../images/symboles/index.jpg" alt="retour index ANGCP" width="41" height="30"></a></td>
+    <td width="33" class="none"><a href="../accueil/mail.htm"><img src="../../images/symboles/contact.gif" alt="pour nous contacter" width="33" height="30"></a></td>
+    <td class="titre"><h1><a name="up"></a>Humour</h1></td>
+    <td width="33" class="none"><a href="../accueil/accueil.htm"><img src="../../images/symboles/menu.jpg" alt="retour au menu g&eacute;n&eacute;ral" width="30" height="30"></a></td>
+    <td width="30" class="none"></td>
+  </tr>
+</table>
+<br>
+<div align="center">
+  <center>
+  <table class="none" cellpadding="0" height="380" width="445">
+  <tr>
+      <td class="none" width="100%" height="300" valign="middle" align="center"> 
+        <div align="center">
+          <p align="center"><img src="../humour/donner.jpg" width="430" height="300" name="photoslider"></div>
+      </td>
+  </tr>
+  <tr>
+      <td class="none" width="100%" height="80">
+			<form method="POST" name="rotater">
+          		<div align="center">
+              	<p> 
+                	<script language="JavaScript1.1">
+
+/*
+Photo Slider II- By Kevin Adams (kadams@kyk.net)
+script trouvé sur http://gloubiweb.free.fr
+*/
+
+var photos=new Array()
+var text=new Array()
+var which=0
+var what=0
+
+//Change the below variables to reference your own images. You may have as many images in the slider as you wish
+photos[0]="../humour/donner.jpg"
+photos[1]="../humour/txteam.jpg"
+photos[2]="../humour/bisous.jpg"
+photos[3]="../humour/attente1.jpg"
+photos[4]="../humour/attente2.jpg"
+photos[5]="../humour/avotboncoeur.jpg"
+photos[6]="../humour/fleurscoeurs.jpg"
+photos[7]="../humour/chevalerie.jpg"
+photos[8]="../humour/lettreamour.jpg"
+photos[9]="../humour/jogsurveille.jpg"
+photos[10]="../humour/coursecoeur.jpg"
+photos[11]="../humour/doping.jpg"
+photos[12]="../humour/luimoi.jpg"
+photos[13]="../humour/pacifiste.jpg"
+photos[14]="../humour/declare_don.jpg"
+photos[15]="../humour/servicedon.jpg"
+photos[16]="../humour/donanonyme.jpg"
+photos[17]="../humour/algerie.jpg"
+
+//change coresponding description
+text[0]="Le verbe donner"
+text[1]="L'équipe de transplantation "
+text[2]="Bisous"
+text[3]="L'attente"
+text[4]="L'attente"
+text[5]="A votre bon coeur"
+text[6]="Dites le avec des fleurs"
+text[7]="Chevalerie"
+text[8]="Les lettres d'amour"
+text[9]="Jogging sous surveillance"
+text[10]="Courir de tout son coeur"
+text[11]="Le meilleur doping"
+text[12]="On court ensemble"
+text[13]="Le pacifiste"
+text[14]="Déclaration de dons d'organes"
+text[15]="Le service du don d'organes"
+text[16]="Don anonyme"
+text[17]="Il y a transplanté ...et transplanté!"
+
+window.onload=new Function("document.rotater.description.value=text[0]")
+
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which];
+what--
+document.rotater.description.value=text[what];
+}
+}
+
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+what++
+document.rotater.description.value=text[what];
+}
+else window.status='End of gallery'
+}
+
+function type()
+	{
+	alert("This textbox will only display default comments")
+	}
+
+
+					</script>
+                	<input type=text name="description" style="width:300px" size=50>
+              	<p>
+              	
+                	<input type="button" value="<<Retour" name="B2" onClick="backward()">
+                	<input type="button" value="Suivant>>" name="B1" onClick="forward()">
+                	<br>
+                	<a href="#" onClick="which=1;what=1;backward();return false">Retour au d&eacute;but</a></p>
+
+            </div>
+			</form></table></center>
+       </div>
+
+  <p align="center"><b>Merci &agrave; SERDU&nbsp;pour sa g&eacute;n&eacute;reuse collaboration &agrave; notre association!</b></p>
+
+<p class="bdpg"><a href="http://www.angcp.be">Association Nationales des Greffés Cardiaques et Pulmonaires</a><br>
+Édition le&nbsp; 3 décembre 2002<br>
+<a href="plan.htm" target="_top">Plan du site</a><br>
+<a href="mailto:georges.niset@pi.be">Courriel</a><br><br>
+<a href="#up"><img alt="Retour haut de page" src="../../images/symboles/up.gif" align="center" width="32" height="32" ></a></p>
+
+</body></html>
+

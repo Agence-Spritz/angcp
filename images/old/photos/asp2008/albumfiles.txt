@@ -1,0 +1,96 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+asp2008_001.jpg	N:\asp 2008\int\asp2008_001.jpg
+asp2008_003.jpg	N:\asp 2008\int\asp2008_003.jpg
+asp2008_004.jpg	N:\asp 2008\int\asp2008_004.jpg
+asp2008_005.jpg	N:\asp 2008\int\asp2008_005.jpg
+asp2008_006.jpg	N:\asp 2008\int\asp2008_006.jpg
+asp2008_007.jpg	N:\asp 2008\int\asp2008_007.jpg
+asp2008_008.jpg	N:\asp 2008\int\asp2008_008.jpg
+asp2008_009.JPG	N:\asp 2008\int\asp2008_009.JPG
+asp2008_010.JPG	N:\asp 2008\int\asp2008_010.JPG
+asp2008_011.JPG	N:\asp 2008\int\asp2008_011.JPG
+asp2008_012.jpg	N:\asp 2008\int\asp2008_012.jpg
+asp2008_013.jpg	N:\asp 2008\int\asp2008_013.jpg
+asp2008_014.jpg	N:\asp 2008\int\asp2008_014.jpg
+asp2008_015.jpg	N:\asp 2008\int\asp2008_015.jpg
+asp2008_016.jpg	N:\asp 2008\int\asp2008_016.jpg
+asp2008_017.jpg	N:\asp 2008\int\asp2008_017.jpg
+asp2008_018.jpg	N:\asp 2008\int\asp2008_018.jpg
+asp2008_019.jpg	N:\asp 2008\int\asp2008_019.jpg
+asp2008_020.jpg	N:\asp 2008\int\asp2008_020.jpg
+asp2008_021.jpg	N:\asp 2008\int\asp2008_021.jpg
+asp2008_022.jpg	N:\asp 2008\int\asp2008_022.jpg
+asp2008_023.jpg	N:\asp 2008\int\asp2008_023.jpg
+asp2008_024.jpg	N:\asp 2008\int\asp2008_024.jpg
+asp2008_025.jpg	N:\asp 2008\int\asp2008_025.jpg
+asp2008_026.jpg	N:\asp 2008\int\asp2008_026.jpg
+asp2008_027.jpg	N:\asp 2008\int\asp2008_027.jpg
+asp2008_028.jpg	N:\asp 2008\int\asp2008_028.jpg
+asp2008_029.jpg	N:\asp 2008\int\asp2008_029.jpg
+asp2008_030.jpg	N:\asp 2008\int\asp2008_030.jpg
+asp2008_031.jpg	N:\asp 2008\int\asp2008_031.jpg
+asp2008_032.jpg	N:\asp 2008\int\asp2008_032.jpg
+asp2008_033.jpg	N:\asp 2008\int\asp2008_033.jpg
+asp2008_034.jpg	N:\asp 2008\int\asp2008_034.jpg
+asp2008_035.jpg	N:\asp 2008\int\asp2008_035.jpg
+asp2008_036.jpg	N:\asp 2008\int\asp2008_036.jpg
+asp2008_037.jpg	N:\asp 2008\int\asp2008_037.jpg
+asp2008_038.jpg	N:\asp 2008\int\asp2008_038.jpg
+asp2008_039.jpg	N:\asp 2008\int\asp2008_039.jpg
+asp2008_040.jpg	N:\asp 2008\int\asp2008_040.jpg
+asp2008_041.jpg	N:\asp 2008\int\asp2008_041.jpg
+asp2008_042.jpg	N:\asp 2008\int\asp2008_042.jpg
+asp2008_043.jpg	N:\asp 2008\int\asp2008_043.jpg
+asp2008_044.jpg	N:\asp 2008\int\asp2008_044.jpg
+asp2008_045.jpg	N:\asp 2008\int\asp2008_045.jpg
+asp2008_046.jpg	N:\asp 2008\int\asp2008_046.jpg
+asp2008_047.jpg	N:\asp 2008\int\asp2008_047.jpg
+asp2008_048.jpg	N:\asp 2008\int\asp2008_048.jpg
+asp2008_049.jpg	N:\asp 2008\int\asp2008_049.jpg
+asp2008_050.jpg	N:\asp 2008\int\asp2008_050.jpg
+asp2008_051.jpg	N:\asp 2008\int\asp2008_051.jpg
+asp2008_052.jpg	N:\asp 2008\int\asp2008_052.jpg
+asp2008_053.jpg	N:\asp 2008\int\asp2008_053.jpg
+asp2008_054.jpg	N:\asp 2008\int\asp2008_054.jpg
+asp2008_055.jpg	N:\asp 2008\int\asp2008_055.jpg
+asp2008_056.jpg	N:\asp 2008\int\asp2008_056.jpg
+asp2008_057.jpg	N:\asp 2008\int\asp2008_057.jpg
+asp2008_058.jpg	N:\asp 2008\int\asp2008_058.jpg
+asp2008_059.jpg	N:\asp 2008\int\asp2008_059.jpg
+asp2008_060.jpg	N:\asp 2008\int\asp2008_060.jpg
+asp2008_061.jpg	N:\asp 2008\int\asp2008_061.jpg
+asp2008_062.jpg	N:\asp 2008\int\asp2008_062.jpg
+asp2008_063.jpg	N:\asp 2008\int\asp2008_063.jpg
+asp2008_064.jpg	N:\asp 2008\int\asp2008_064.jpg
+asp2008_065.jpg	N:\asp 2008\int\asp2008_065.jpg
+asp2008_066.jpg	N:\asp 2008\int\asp2008_066.jpg
+asp2008_067.jpg	N:\asp 2008\int\asp2008_067.jpg
+asp2008_068.jpg	N:\asp 2008\int\asp2008_068.jpg
+asp2008_069.jpg	N:\asp 2008\int\asp2008_069.jpg
+asp2008_070.jpg	N:\asp 2008\int\asp2008_070.jpg
+asp2008_071.jpg	N:\asp 2008\int\asp2008_071.jpg
+asp2008_072.jpg	N:\asp 2008\int\asp2008_072.jpg
+asp2008_073.jpg	N:\asp 2008\int\asp2008_073.jpg
+asp2008_074.jpg	N:\asp 2008\int\asp2008_074.jpg
+asp2008_075.jpg	N:\asp 2008\int\asp2008_075.jpg
+asp2008_076.jpg	N:\asp 2008\int\asp2008_076.jpg
+asp2008_077.jpg	N:\asp 2008\int\asp2008_077.jpg
+asp2008_078.jpg	N:\asp 2008\int\asp2008_078.jpg
+asp2008_079.jpg	N:\asp 2008\int\asp2008_079.jpg
+asp2008_080.jpg	N:\asp 2008\int\asp2008_080.jpg
+asp2008_081.jpg	N:\asp 2008\int\asp2008_081.jpg
+asp2008_082.jpg	N:\asp 2008\int\asp2008_082.jpg
+asp2008_083.jpg	N:\asp 2008\int\asp2008_083.jpg
+asp2008_084.jpg	N:\asp 2008\int\asp2008_084.jpg
+asp2008_085.jpg	N:\asp 2008\int\asp2008_085.jpg
+asp2008_086.jpg	N:\asp 2008\int\asp2008_086.jpg
+asp2008_087.jpg	N:\asp 2008\int\asp2008_087.jpg
+asp2008_088.jpg	N:\asp 2008\int\asp2008_088.jpg
+asp2008_089.jpg	N:\asp 2008\int\asp2008_089.jpg

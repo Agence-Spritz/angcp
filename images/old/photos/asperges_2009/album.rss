@@ -1,0 +1,3267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>asperges_2009</title>
+   	<link>.</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="album/album.rss" />   	
+    	<jalbum:link rel="sub" href="album/album.rss" />   	
+    	
+        
+        <item>
+            <title>asp2009_001</title>
+            <link>slides/asp2009_001.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_001.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_001.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_001.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_002</title>
+            <link>slides/asp2009_002.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_002.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_002.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_002.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_003</title>
+            <link>slides/asp2009_003.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_003.JPG" width="124" height="94"/>
+            <media:content url="slides/asp2009_003.JPG" width="512" height="389"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_003.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_004</title>
+            <link>slides/asp2009_004.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_004.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_004.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_004.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_005</title>
+            <link>slides/asp2009_005.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_005.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_005.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:38" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_005.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_006</title>
+            <link>slides/asp2009_006.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_006.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_006.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_006.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_007</title>
+            <link>slides/asp2009_007.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_007.jpg" width="88" height="124"/>
+            <media:content url="slides/asp2009_007.jpg" width="364" height="512"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_007.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_008</title>
+            <link>slides/asp2009_008.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_008.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_008.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_008.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_009</title>
+            <link>slides/asp2009_009.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_009.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_009.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:41" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_009.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_010</title>
+            <link>slides/asp2009_010.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_010.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_010.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:41" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_010.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_011</title>
+            <link>slides/asp2009_011.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_011.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_011.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 13:42" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_011.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_012</title>
+            <link>slides/asp2009_012.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_012.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_012.jpg" width="512" height="387"/>
+            
+            <jalbum:exif originalDate="23/05/09 15:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_012.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_013</title>
+            <link>slides/asp2009_013.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_013.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_013.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="23/05/09 15:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_013.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_014</title>
+            <link>slides/asp2009_014.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_014.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_014.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 10:53" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_014.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_015</title>
+            <link>slides/asp2009_015.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_015.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_015.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:24" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_015.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_016</title>
+            <link>slides/asp2009_016.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_016.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_016.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:26" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_016.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_017</title>
+            <link>slides/asp2009_017.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_017.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_017.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:27" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_017.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_018</title>
+            <link>slides/asp2009_018.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_018.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_018.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:28" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_018.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_019</title>
+            <link>slides/asp2009_019.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_019.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_019.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:32" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_019.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_020</title>
+            <link>slides/asp2009_020.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_020.JPG" width="124" height="100"/>
+            <media:content url="slides/asp2009_020.JPG" width="512" height="416"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:33" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_020.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_021</title>
+            <link>slides/asp2009_021.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_021.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_021.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:36" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_021.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_022</title>
+            <link>slides/asp2009_022.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_022.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_022.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:36" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_022.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_023</title>
+            <link>slides/asp2009_023.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_023.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_023.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:41" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_023.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_024</title>
+            <link>slides/asp2009_024.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_024.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_024.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:42" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_024.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_025</title>
+            <link>slides/asp2009_025.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_025.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_025.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:42" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_025.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_026</title>
+            <link>slides/asp2009_026.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_026.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_026.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:43" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_026.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_027</title>
+            <link>slides/asp2009_027.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_027.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_027.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:44" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_027.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_028</title>
+            <link>slides/asp2009_028.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_028.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_028.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:45" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_028.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_029</title>
+            <link>slides/asp2009_029.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_029.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_029.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:45" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_029.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_030</title>
+            <link>slides/asp2009_030.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_030.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_030.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:46" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_030.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_031</title>
+            <link>slides/asp2009_031.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_031.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_031.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:46" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_031.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_032</title>
+            <link>slides/asp2009_032.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_032.jpg" width="124" height="91"/>
+            <media:content url="slides/asp2009_032.jpg" width="512" height="379"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:47" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_032.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_033</title>
+            <link>slides/asp2009_033.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_033.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_033.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:47" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_033.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_034</title>
+            <link>slides/asp2009_034.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_034.jpg" width="124" height="86"/>
+            <media:content url="slides/asp2009_034.jpg" width="512" height="356"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:48" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_034.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_035</title>
+            <link>slides/asp2009_035.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_035.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_035.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:52" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_035.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_036</title>
+            <link>slides/asp2009_036.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_036.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_036.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:53" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_036.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_037</title>
+            <link>slides/asp2009_037.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_037.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_037.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:54" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_037.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_038</title>
+            <link>slides/asp2009_038.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_038.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_038.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:55" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_038.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_039</title>
+            <link>slides/asp2009_039.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_039.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_039.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:56" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_039.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_040</title>
+            <link>slides/asp2009_040.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_040.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_040.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:57" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_040.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_041</title>
+            <link>slides/asp2009_041.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_041.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_041.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:57" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_041.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_042</title>
+            <link>slides/asp2009_042.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_042.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_042.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:57" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_042.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_043</title>
+            <link>slides/asp2009_043.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_043.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_043.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:58" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_043.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_044</title>
+            <link>slides/asp2009_044.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_044.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_044.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:02" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_044.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_045</title>
+            <link>slides/asp2009_045.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_045.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_045.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:04" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_045.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_046</title>
+            <link>slides/asp2009_046.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_046.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_046.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:04" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_046.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_047</title>
+            <link>slides/asp2009_047.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_047.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_047.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:06" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_047.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_048</title>
+            <link>slides/asp2009_048.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_048.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_048.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:07" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_048.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_049</title>
+            <link>slides/asp2009_049.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_049.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_049.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:08" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_049.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_050</title>
+            <link>slides/asp2009_050.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_050.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_050.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:08" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_050.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_051</title>
+            <link>slides/asp2009_051.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_051.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_051.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:10" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_051.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_052</title>
+            <link>slides/asp2009_052.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_052.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_052.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:11" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_052.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_053</title>
+            <link>slides/asp2009_053.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_053.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_053.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:11" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_053.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_054</title>
+            <link>slides/asp2009_054.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_054.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_054.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:15" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_054.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_055</title>
+            <link>slides/asp2009_055.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_055.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_055.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:15" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_055.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_056</title>
+            <link>slides/asp2009_056.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_056.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_056.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_056.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_057</title>
+            <link>slides/asp2009_057.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_057.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_057.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_057.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_058</title>
+            <link>slides/asp2009_058.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_058.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_058.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:18" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_058.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_059</title>
+            <link>slides/asp2009_059.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_059.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_059.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 10:58" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_059.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_060</title>
+            <link>slides/asp2009_060.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_060.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_060.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 10:59" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_060.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_061</title>
+            <link>slides/asp2009_061.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_061.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_061.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 10:59" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_061.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_062</title>
+            <link>slides/asp2009_062.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_062.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_062.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 10:59" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_062.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_063</title>
+            <link>slides/asp2009_063.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_063.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_063.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:00" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_063.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_064</title>
+            <link>slides/asp2009_064.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_064.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_064.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:00" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_064.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_065</title>
+            <link>slides/asp2009_065.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_065.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_065.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:00" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_065.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_066</title>
+            <link>slides/asp2009_066.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_066.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_066.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:01" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_066.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_067</title>
+            <link>slides/asp2009_067.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_067.jpg" width="124" height="91"/>
+            <media:content url="slides/asp2009_067.jpg" width="512" height="376"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:07" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_067.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_068</title>
+            <link>slides/asp2009_068.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_068.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_068.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:07" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_068.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_069</title>
+            <link>slides/asp2009_069.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_069.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_069.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:18" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_069.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_070</title>
+            <link>slides/asp2009_070.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_070.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_070.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:19" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_070.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_071</title>
+            <link>slides/asp2009_071.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_071.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_071.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:19" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_071.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_072</title>
+            <link>slides/asp2009_072.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_072.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_072.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:20" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_072.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_073</title>
+            <link>slides/asp2009_073.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_073.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_073.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:21" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_073.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_074</title>
+            <link>slides/asp2009_074.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_074.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_074.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:22" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_074.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_075</title>
+            <link>slides/asp2009_075.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_075.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_075.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:22" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_075.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_076</title>
+            <link>slides/asp2009_076.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_076.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_076.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:23" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_076.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_077</title>
+            <link>slides/asp2009_077.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_077.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_077.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:23" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_077.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_078</title>
+            <link>slides/asp2009_078.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_078.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_078.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:25" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_078.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_079</title>
+            <link>slides/asp2009_079.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_079.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_079.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:26" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_079.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_080</title>
+            <link>slides/asp2009_080.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_080.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_080.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:26" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_080.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_081</title>
+            <link>slides/asp2009_081.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_081.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_081.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:27" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_081.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_082</title>
+            <link>slides/asp2009_082.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_082.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_082.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_082.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_083</title>
+            <link>slides/asp2009_083.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_083.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_083.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_083.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_084</title>
+            <link>slides/asp2009_084.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_084.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_084.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_084.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_085</title>
+            <link>slides/asp2009_085.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_085.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_085.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_085.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_086</title>
+            <link>slides/asp2009_086.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_086.jpg" width="95" height="124"/>
+            <media:content url="slides/asp2009_086.jpg" width="395" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:29" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_086.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_087</title>
+            <link>slides/asp2009_087.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_087.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_087.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:30" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_087.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_088</title>
+            <link>slides/asp2009_088.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_088.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_088.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_088.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_089</title>
+            <link>slides/asp2009_089.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_089.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_089.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_089.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_090</title>
+            <link>slides/asp2009_090.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_090.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_090.JPG" width="512" height="385"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_090.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_091</title>
+            <link>slides/asp2009_091.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_091.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_091.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_091.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_092</title>
+            <link>slides/asp2009_092.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_092.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_092.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_092.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_093</title>
+            <link>slides/asp2009_093.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_093.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_093.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_093.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_094</title>
+            <link>slides/asp2009_094.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_094.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_094.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_094.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_095</title>
+            <link>slides/asp2009_095.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_095.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_095.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_095.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_096</title>
+            <link>slides/asp2009_096.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_096.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_096.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_096.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_097</title>
+            <link>slides/asp2009_097.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_097.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_097.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_097.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_098</title>
+            <link>slides/asp2009_098.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_098.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_098.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:41" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_098.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_099</title>
+            <link>slides/asp2009_099.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_099.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_099.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:46" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_099.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_100</title>
+            <link>slides/asp2009_100.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_100.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_100.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:47" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_100.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_101</title>
+            <link>slides/asp2009_101.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_101.JPG" width="124" height="91"/>
+            <media:content url="slides/asp2009_101.JPG" width="512" height="377"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:48" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_101.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_102</title>
+            <link>slides/asp2009_102.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_102.jpg" width="119" height="124"/>
+            <media:content url="slides/asp2009_102.jpg" width="493" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:48" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_102.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_103</title>
+            <link>slides/asp2009_103.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_103.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_103.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:49" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_103.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_104</title>
+            <link>slides/asp2009_104.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_104.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_104.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:49" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_104.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_105</title>
+            <link>slides/asp2009_105.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_105.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_105.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:51" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_105.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_106</title>
+            <link>slides/asp2009_106.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_106.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_106.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 11:52" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_106.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_107</title>
+            <link>slides/asp2009_107.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_107.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_107.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:00" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_107.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_108</title>
+            <link>slides/asp2009_108.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_108.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_108.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:02" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_108.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_109</title>
+            <link>slides/asp2009_109.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_109.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_109.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:05" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_109.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_110</title>
+            <link>slides/asp2009_110.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_110.JPG" width="124" height="96"/>
+            <media:content url="slides/asp2009_110.JPG" width="512" height="399"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:06" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_110.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_111</title>
+            <link>slides/asp2009_111.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_111.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_111.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_111.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_112</title>
+            <link>slides/asp2009_112.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_112.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_112.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_112.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_113</title>
+            <link>slides/asp2009_113.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_113.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_113.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_113.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_114</title>
+            <link>slides/asp2009_114.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_114.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_114.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:16" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_114.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_115</title>
+            <link>slides/asp2009_115.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_115.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_115.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:17" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_115.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_116</title>
+            <link>slides/asp2009_116.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_116.JPG" width="124" height="96"/>
+            <media:content url="slides/asp2009_116.JPG" width="512" height="397"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:18" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_116.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_117</title>
+            <link>slides/asp2009_117.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_117.jpg" width="98" height="124"/>
+            <media:content url="slides/asp2009_117.jpg" width="408" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:18" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_117.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_118</title>
+            <link>slides/asp2009_118.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_118.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_118.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:20" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_118.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_119</title>
+            <link>slides/asp2009_119.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_119.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_119.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:24" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_119.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_120</title>
+            <link>slides/asp2009_120.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_120.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_120.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:27" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_120.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_121</title>
+            <link>slides/asp2009_121.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_121.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_121.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_121.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_122</title>
+            <link>slides/asp2009_122.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_122.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_122.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_122.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_123</title>
+            <link>slides/asp2009_123.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_123.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_123.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_123.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_124</title>
+            <link>slides/asp2009_124.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_124.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_124.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_124.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_125</title>
+            <link>slides/asp2009_125.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_125.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_125.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_125.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_126</title>
+            <link>slides/asp2009_126.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_126.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_126.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:29" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_126.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_127</title>
+            <link>slides/asp2009_127.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_127.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_127.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:30" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_127.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_128</title>
+            <link>slides/asp2009_128.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_128.JPG" width="124" height="86"/>
+            <media:content url="slides/asp2009_128.JPG" width="512" height="357"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:30" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_128.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_129</title>
+            <link>slides/asp2009_129.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_129.JPG" width="124" height="83"/>
+            <media:content url="slides/asp2009_129.JPG" width="512" height="345"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_129.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_130</title>
+            <link>slides/asp2009_130.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_130.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_130.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_130.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_131</title>
+            <link>slides/asp2009_131.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_131.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_131.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_131.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_132</title>
+            <link>slides/asp2009_132.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_132.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_132.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_132.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_133</title>
+            <link>slides/asp2009_133.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_133.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_133.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_133.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_134</title>
+            <link>slides/asp2009_134.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_134.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_134.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_134.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_135</title>
+            <link>slides/asp2009_135.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_135.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_135.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:31" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_135.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_136</title>
+            <link>slides/asp2009_136.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_136.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_136.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_136.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_137</title>
+            <link>slides/asp2009_137.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_137.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_137.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_137.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_138</title>
+            <link>slides/asp2009_138.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_138.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_138.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_138.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_139</title>
+            <link>slides/asp2009_139.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_139.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_139.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_139.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_140</title>
+            <link>slides/asp2009_140.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_140.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_140.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:32" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_140.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_141</title>
+            <link>slides/asp2009_141.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_141.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_141.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:33" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_141.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_142</title>
+            <link>slides/asp2009_142.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_142.JPG" width="124" height="85"/>
+            <media:content url="slides/asp2009_142.JPG" width="512" height="355"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:33" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_142.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_143</title>
+            <link>slides/asp2009_143.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_143.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_143.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:33" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_143.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_144</title>
+            <link>slides/asp2009_144.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_144.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_144.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_144.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_145</title>
+            <link>slides/asp2009_145.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_145.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_145.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_145.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_146</title>
+            <link>slides/asp2009_146.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_146.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_146.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_146.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_147</title>
+            <link>slides/asp2009_147.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_147.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_147.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_147.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_148</title>
+            <link>slides/asp2009_148.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_148.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_148.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_148.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_149</title>
+            <link>slides/asp2009_149.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_149.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_149.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:34" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_149.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_150</title>
+            <link>slides/asp2009_150.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_150.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_150.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_150.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_151</title>
+            <link>slides/asp2009_151.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_151.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_151.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_151.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_152</title>
+            <link>slides/asp2009_152.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_152.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_152.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_152.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_153</title>
+            <link>slides/asp2009_153.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_153.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_153.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_153.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_154</title>
+            <link>slides/asp2009_154.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_154.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_154.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:35" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_154.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_155</title>
+            <link>slides/asp2009_155.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_155.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_155.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_155.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_156</title>
+            <link>slides/asp2009_156.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_156.JPG" width="124" height="87"/>
+            <media:content url="slides/asp2009_156.JPG" width="512" height="361"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_156.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_157</title>
+            <link>slides/asp2009_157.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_157.JPG" width="124" height="91"/>
+            <media:content url="slides/asp2009_157.JPG" width="512" height="377"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_157.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_158</title>
+            <link>slides/asp2009_158.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_158.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_158.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:36" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_158.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_159</title>
+            <link>slides/asp2009_159.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_159.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_159.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_159.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_160</title>
+            <link>slides/asp2009_160.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_160.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_160.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_160.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_161</title>
+            <link>slides/asp2009_161.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_161.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_161.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_161.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_162</title>
+            <link>slides/asp2009_162.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_162.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_162.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_162.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_163</title>
+            <link>slides/asp2009_163.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_163.JPG" width="124" height="91"/>
+            <media:content url="slides/asp2009_163.JPG" width="512" height="379"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_163.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_164</title>
+            <link>slides/asp2009_164.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_164.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_164.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:37" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_164.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_165</title>
+            <link>slides/asp2009_165.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_165.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_165.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:38" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_165.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_166</title>
+            <link>slides/asp2009_166.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_166.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_166.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:38" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_166.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_167</title>
+            <link>slides/asp2009_167.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_167.JPG" width="124" height="88"/>
+            <media:content url="slides/asp2009_167.JPG" width="512" height="367"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:38" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_167.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_168</title>
+            <link>slides/asp2009_168.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_168.jpg" width="124" height="91"/>
+            <media:content url="slides/asp2009_168.jpg" width="512" height="377"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_168.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_169</title>
+            <link>slides/asp2009_169.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_169.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_169.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_169.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_170</title>
+            <link>slides/asp2009_170.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_170.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_170.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:39" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_170.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_171</title>
+            <link>slides/asp2009_171.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_171.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_171.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_171.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_172</title>
+            <link>slides/asp2009_172.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_172.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_172.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_172.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_173</title>
+            <link>slides/asp2009_173.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_173.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_173.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_173.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_174</title>
+            <link>slides/asp2009_174.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_174.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_174.JPG" width="512" height="385"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_174.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_175</title>
+            <link>slides/asp2009_175.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_175.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_175.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:43" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_175.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_176</title>
+            <link>slides/asp2009_176.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_176.JPG" width="124" height="98"/>
+            <media:content url="slides/asp2009_176.JPG" width="512" height="406"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:45" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_176.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_177</title>
+            <link>slides/asp2009_177.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_177.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_177.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:46" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_177.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_178</title>
+            <link>slides/asp2009_178.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_178.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_178.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:47" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_178.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_179</title>
+            <link>slides/asp2009_179.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_179.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_179.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:49" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_179.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_180</title>
+            <link>slides/asp2009_180.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_180.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_180.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:50" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_180.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_181</title>
+            <link>slides/asp2009_181.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_181.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_181.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:52" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_181.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_182</title>
+            <link>slides/asp2009_182.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_182.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_182.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:52" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_182.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_183</title>
+            <link>slides/asp2009_183.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_183.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_183.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:52" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_183.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_184</title>
+            <link>slides/asp2009_184.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_184.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_184.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:53" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_184.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_185</title>
+            <link>slides/asp2009_185.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_185.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_185.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:54" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_185.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_186</title>
+            <link>slides/asp2009_186.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_186.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_186.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:57" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_186.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_187</title>
+            <link>slides/asp2009_187.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_187.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_187.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:58" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_187.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_188</title>
+            <link>slides/asp2009_188.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_188.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_188.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 12:58" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_188.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_189</title>
+            <link>slides/asp2009_189.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_189.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_189.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:00" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_189.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_190</title>
+            <link>slides/asp2009_190.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_190.JPG" width="124" height="83"/>
+            <media:content url="slides/asp2009_190.JPG" width="512" height="346"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:01" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_190.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_191</title>
+            <link>slides/asp2009_191.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_191.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_191.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:01" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_191.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_192</title>
+            <link>slides/asp2009_192.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_192.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_192.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:02" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_192.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_193</title>
+            <link>slides/asp2009_193.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_193.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_193.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:02" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_193.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_194</title>
+            <link>slides/asp2009_194.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_194.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_194.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:02" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_194.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_195</title>
+            <link>slides/asp2009_195.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_195.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_195.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:02" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_195.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_196</title>
+            <link>slides/asp2009_196.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_196.JPG" width="108" height="124"/>
+            <media:content url="slides/asp2009_196.JPG" width="450" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:13" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_196.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_197</title>
+            <link>slides/asp2009_197.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_197.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_197.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:13" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_197.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_198</title>
+            <link>slides/asp2009_198.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_198.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_198.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:13" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_198.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_199</title>
+            <link>slides/asp2009_199.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_199.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_199.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:14" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_199.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_200</title>
+            <link>slides/asp2009_200.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_200.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_200.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:14" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_200.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_201</title>
+            <link>slides/asp2009_201.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_201.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_201.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:16" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_201.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_202</title>
+            <link>slides/asp2009_202.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_202.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_202.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:17" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_202.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_203</title>
+            <link>slides/asp2009_203.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_203.JPG" width="77" height="124"/>
+            <media:content url="slides/asp2009_203.JPG" width="319" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:17" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_203.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_204</title>
+            <link>slides/asp2009_204.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_204.jpg" width="95" height="124"/>
+            <media:content url="slides/asp2009_204.jpg" width="393" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:20" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_204.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_205</title>
+            <link>slides/asp2009_205.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_205.JPG" width="124" height="92"/>
+            <media:content url="slides/asp2009_205.JPG" width="512" height="382"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:20" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_205.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_206</title>
+            <link>slides/asp2009_206.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_206.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_206.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:20" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_206.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_207</title>
+            <link>slides/asp2009_207.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_207.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_207.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:21" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_207.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_208</title>
+            <link>slides/asp2009_208.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_208.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_208.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:21" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_208.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_209</title>
+            <link>slides/asp2009_209.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_209.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_209.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:22" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_209.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_210</title>
+            <link>slides/asp2009_210.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_210.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_210.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:25" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_210.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_211</title>
+            <link>slides/asp2009_211.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_211.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_211.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:26" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_211.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_212</title>
+            <link>slides/asp2009_212.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_212.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_212.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:28" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_212.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_213</title>
+            <link>slides/asp2009_213.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_213.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_213.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:29" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_213.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_214</title>
+            <link>slides/asp2009_214.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_214.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_214.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:29" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_214.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_215</title>
+            <link>slides/asp2009_215.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_215.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_215.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:38" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_215.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_216</title>
+            <link>slides/asp2009_216.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_216.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_216.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_216.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_217</title>
+            <link>slides/asp2009_217.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_217.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_217.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:42" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_217.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_218</title>
+            <link>slides/asp2009_218.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_218.jpg" width="124" height="77"/>
+            <media:content url="slides/asp2009_218.jpg" width="512" height="322"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:42" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_218.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_219</title>
+            <link>slides/asp2009_219.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_219.jpg" width="93" height="124"/>
+            <media:content url="slides/asp2009_219.jpg" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:43" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_219.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_220</title>
+            <link>slides/asp2009_220.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_220.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_220.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:43" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_220.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_221</title>
+            <link>slides/asp2009_221.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_221.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_221.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:56" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_221.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_222</title>
+            <link>slides/asp2009_222.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_222.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_222.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:59" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_222.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_223</title>
+            <link>slides/asp2009_223.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_223.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_223.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 13:59" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_223.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_224</title>
+            <link>slides/asp2009_224.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_224.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_224.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:04" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_224.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_225</title>
+            <link>slides/asp2009_225.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_225.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_225.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:08" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_225.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_226</title>
+            <link>slides/asp2009_226.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_226.jpg" width="124" height="95"/>
+            <media:content url="slides/asp2009_226.jpg" width="512" height="396"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:13" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_226.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_227</title>
+            <link>slides/asp2009_227.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_227.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_227.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:13" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_227.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_228</title>
+            <link>slides/asp2009_228.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_228.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_228.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:14" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_228.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_229</title>
+            <link>slides/asp2009_229.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_229.JPG" width="93" height="124"/>
+            <media:content url="slides/asp2009_229.JPG" width="384" height="512"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:19" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_229.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_230</title>
+            <link>slides/asp2009_230.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_230.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_230.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:23" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_230.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_231</title>
+            <link>slides/asp2009_231.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_231.jpg" width="124" height="93"/>
+            <media:content url="slides/asp2009_231.jpg" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:24" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_231.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_232</title>
+            <link>slides/asp2009_232.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_232.jpg" width="124" height="89"/>
+            <media:content url="slides/asp2009_232.jpg" width="512" height="369"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:24" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_232.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_233</title>
+            <link>slides/asp2009_233.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_233.JPG" width="124" height="94"/>
+            <media:content url="slides/asp2009_233.JPG" width="512" height="391"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_233.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_234</title>
+            <link>slides/asp2009_234.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_234.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_234.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:40" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_234.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_235</title>
+            <link>slides/asp2009_235.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_235.jpg" width="124" height="73"/>
+            <media:content url="slides/asp2009_235.jpg" width="512" height="305"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:41" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_235.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_236</title>
+            <link>slides/asp2009_236.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_236.jpg" width="124" height="76"/>
+            <media:content url="slides/asp2009_236.jpg" width="512" height="316"/>
+            
+            <jalbum:exif originalDate="24/05/09 14:42" cameraMake="Panasonic" cameraModel="DMC-FX10"/>
+            <guid isPermaLink="false">slides/asp2009_236.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_237</title>
+            <link>slides/asp2009_237.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_237.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_237.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:19" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_237.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_238</title>
+            <link>slides/asp2009_238.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_238.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_238.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:20" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_238.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_239</title>
+            <link>slides/asp2009_239.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_239.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_239.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:21" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_239.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_240</title>
+            <link>slides/asp2009_240.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_240.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_240.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:21" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_240.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_241</title>
+            <link>slides/asp2009_241.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_241.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_241.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:22" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_241.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_242</title>
+            <link>slides/asp2009_242.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_242.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_242.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:22" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_242.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_243</title>
+            <link>slides/asp2009_243.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_243.JPG" width="124" height="94"/>
+            <media:content url="slides/asp2009_243.JPG" width="512" height="392"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:22" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_243.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_244</title>
+            <link>slides/asp2009_244.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_244.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_244.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:22" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_244.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_245</title>
+            <link>slides/asp2009_245.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_245.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_245.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:25" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_245.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_246</title>
+            <link>slides/asp2009_246.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_246.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_246.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:25" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_246.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_247</title>
+            <link>slides/asp2009_247.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_247.jpg" width="124" height="89"/>
+            <media:content url="slides/asp2009_247.jpg" width="512" height="370"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:26" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_247.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_248</title>
+            <link>slides/asp2009_248.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_248.JPG" width="124" height="93"/>
+            <media:content url="slides/asp2009_248.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:26" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_248.JPG</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_249</title>
+            <link>slides/asp2009_249.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_249.jpg" width="124" height="76"/>
+            <media:content url="slides/asp2009_249.jpg" width="512" height="315"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:16" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_249.jpg</guid>
+        </item>
+        
+        <item>
+            <title>asp2009_250</title>
+            <link>slides/asp2009_250.htm</link>
+            <pubDate>Wed, 03 Jun 2009 13:55:31 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/asp2009_250.jpg" width="124" height="65"/>
+            <media:content url="slides/asp2009_250.jpg" width="512" height="271"/>
+            
+            <jalbum:exif originalDate="24/05/09 16:17" cameraMake="SONY" cameraModel="DSC-F828"/>
+            <guid isPermaLink="false">slides/asp2009_250.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

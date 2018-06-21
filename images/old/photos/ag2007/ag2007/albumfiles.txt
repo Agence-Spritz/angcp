@@ -1,0 +1,82 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+AG_25mars2007_001.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_001.JPG
+AG_25mars2007_002.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_002.JPG
+AG_25mars2007_003.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_003.JPG
+AG_25mars2007_004.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_004.JPG
+AG_25mars2007_005.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_005.JPG
+AG_25mars2007_006.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_006.JPG
+AG_25mars2007_007.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_007.JPG
+AG_25mars2007_008.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_008.JPG
+AG_25mars2007_009.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_009.jpg
+AG_25mars2007_010.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_010.JPG
+AG_25mars2007_011.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_011.JPG
+AG_25mars2007_012.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_012.JPG
+AG_25mars2007_013.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_013.jpg
+AG_25mars2007_014.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_014.JPG
+AG_25mars2007_015.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_015.JPG
+AG_25mars2007_016.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_016.JPG
+AG_25mars2007_017.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_017.JPG
+AG_25mars2007_018.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_018.JPG
+AG_25mars2007_019.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_019.JPG
+AG_25mars2007_020.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_020.JPG
+AG_25mars2007_021.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_021.JPG
+AG_25mars2007_022.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_022.JPG
+AG_25mars2007_023.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_023.JPG
+AG_25mars2007_024.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_024.JPG
+AG_25mars2007_026.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_026.JPG
+AG_25mars2007_027.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_027.JPG
+AG_25mars2007_028.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_028.JPG
+AG_25mars2007_029.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_029.JPG
+AG_25mars2007_030.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_030.JPG
+AG_25mars2007_033.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_033.JPG
+AG_25mars2007_034.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_034.JPG
+AG_25mars2007_035.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_035.JPG
+AG_25mars2007_036.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_036.JPG
+AG_25mars2007_037.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_037.JPG
+AG_25mars2007_038.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_038.JPG
+AG_25mars2007_039.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_039.JPG
+AG_25mars2007_040.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_040.JPG
+AG_25mars2007_041.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_041.JPG
+AG_25mars2007_042.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_042.JPG
+AG_25mars2007_043.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_043.JPG
+AG_25mars2007_044.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_044.JPG
+AG_25mars2007_045.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_045.JPG
+AG_25mars2007_046.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_046.jpg
+AG_25mars2007_047.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_047.JPG
+AG_25mars2007_048.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_048.JPG
+AG_25mars2007_049.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_049.JPG
+AG_25mars2007_050.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_050.JPG
+AG_25mars2007_051.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_051.jpg
+AG_25mars2007_052.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_052.jpg
+AG_25mars2007_053.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_053.jpg
+AG_25mars2007_054.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_054.jpg
+AG_25mars2007_055.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_055.jpg
+AG_25mars2007_056.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_056.JPG
+AG_25mars2007_057.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_057.jpg
+AG_25mars2007_058.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_058.JPG
+AG_25mars2007_059.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_059.JPG
+AG_25mars2007_060.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_060.JPG
+AG_25mars2007_061.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_061.JPG
+AG_25mars2007_062.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_062.JPG
+AG_25mars2007_063.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_063.jpg
+AG_25mars2007_064.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_064.jpg
+AG_25mars2007_065.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_065.jpg
+AG_25mars2007_066.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_066.JPG
+AG_25mars2007_067.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_067.JPG
+AG_25mars2007_068.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_068.JPG
+AG_25mars2007_069.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_069.JPG
+AG_25mars2007_070.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_070.JPG
+AG_25mars2007_071.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_071.JPG
+AG_25mars2007_072.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_072.JPG
+AG_25mars2007_073.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_073.JPG
+AG_25mars2007_074.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_074.jpg
+AG_25mars2007_075.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_075.jpg
+AG_25mars2007_076.jpg	N:\photos\AG 25 mars 2007\AG_25mars2007_076.jpg
+AG_25mars2007_077.JPG	N:\photos\AG 25 mars 2007\AG_25mars2007_077.JPG

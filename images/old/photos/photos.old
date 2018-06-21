@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<meta name = "Copyright" content="ANGCP">
+	<meta name="Date" content="3 mars 2009">
+	<meta name="Last-Modified" content="03/03/2009">
+	<meta name="resource-type" content="document">
+	<meta name="distribution" content="GLOBAL">
+	<meta name="description" content="Soutenir moralement les patients en attente de greffe par des visites à domicile ou en milieu hospitalier, par la fourniture d'un sématone, promouvoir et valoriser le don d'organes et de tissus humains, bénévole, anonyme, volontaire et universel par des actions concrètes de témoignage et de communication.">
+	<meta name="classification" content="sant&eacute;, m&eacute;decine, cardiologie, transplantation, association">
+	<meta name="layout"content="Smits Yves">
+	<meta name="keywords" content="ANGCP, association, associations, sant&eacute;, sante, coeur, poumon, poumons, transplantation, greffe, greffe cardiaque, transplantation cardiaque, greffe pulmonaire, transplantation pulmonaire, greffe coeur-poumons, transplantation coeur-poumons, greffe cardio-pulmonaire, transplantation cardio-pulmonaire, don d'organes, Georges Primo">
+	<meta name="Identifier-URL" content="http://www.angcp.be">
+	<meta name="ROBOTS" content="index, follow" >
+	<meta HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+<title>photos</title>
+   <link href="../styles/page.css" rel="stylesheet" type="text/css">
+<SCRIPT>
+function Tableau(n) {
+this.length=n;
+return this; }
+function DateModif() {
+NomMois=new Tableau(12)
+NomMois[1]="janvier"
+NomMois[2]="février"
+NomMois[3]="mars"
+NomMois[4]="avril"
+NomMois[5]="mai"
+NomMois[6]="juin"
+NomMois[7]="juillet"
+NomMois[8]="août"
+NomMois[9]="septembre"
+NomMois[10]="octobre"
+NomMois[11]="novembre"
+NomMois[12]="décembre"
+Date=new Date(document.lastModified)
+var Mois=NomMois[Date.getMonth()+1]
+var Annee=Date.getYear()
+return Date.getDate()+" "+Mois+" "+Annee }
+
+//Remerciements pour ce script trouvé sur http://www.toutjavascript.com
+function clicie() {
+	// Fonction de détection pour Internet Explorer
+	if ((event.button==2)||(event.button==3)) {
+		alert("Merci de respectez les droits d'auteur!");
+	}
+}
+function clicns(e){
+	// Fonction pour Netscape
+	if(e.which==3){
+		alert("Respectez les droits d'auteur! Si vous souhaitez utiliser un de ces dessins, écrivez nous.");
+		return false;
+	}
+}
+
+
+if (document.all) {	document.onmousedown=clicie;}
+if (document.layers) {document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clicns;}
+if (window.sidebar) {document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clicns;}
+</SCRIPT>
+</head>
+<body id="debut">
+<div id="maincontent2">
+	<div class="barcontact3"> 
+		<p><a href="../fr/accueil/angcp.htm" class="contact"style="margin-right:20px;">Historique</a>
+			<a href="../fr/accueil/objectifs.htm"class="contact"style="margin-right:23px;">Objectifs</a>
+			<a href="../fr/accueil/statuts.htm"class="contact"style="margin-right:23px;">Statuts</a>
+			<a href="../fr/accueil/delegues.htm"class="contact"style="margin-right:23px;">Délégués</a>
+			<a href="../fr/accueil/campagnes.htm"class="contact"style="margin-right:23px;">Campagnes</a>
+			<a href="../fr/accueil/pulmo.htm"class="contact"style="margin-right:23px;">Pulmo</a>
+			<a href="../fr/journal2/start3.htm"class="contact"style="margin-right:23px;">Journal</a>
+			<a href="#"class="contact"style="margin-right:23px;">Photos</a>
+			<a href="../fr/accueil/accueil.htm"class="contact"style="color:white">• RETOUR •</a></p>			
+	</div>
+	<h1>Photothèque</h1>
+	<hr class="ligtitre">
+	<p class="corps"> <strong>Si une ou plusieurs photos vous intéressent, nous pouvons vous les envoyer gratuitement par mail  dans leur format original.</strong> Celui-ci est réduit ici pour la rapidité du téléchargement !</p>
+	<p>Il vous suffit simplement de nous en faire la demande : <a href="mailto:donsdorganes@angcp.be?subject=Demande de fichiers photo">donsdorganes@angcp.be</a></p>
+	<p> <img src="../images/symboles/fleche_019.gif" width="20" height="10">   Pour revenir sur cette page, fermer la fenêtre de l'album photo.</p>
+	<ul>
+		<li> <a href="ag2007/ag2007.htm"target="_blank">Assemblée Générale du 27 mars 2007 à Bruxelles</a><font size="1"> (74 photos)</font></li>
+		<li> <a href="asp2007/asp2007.htm"target="_blank">Banquet des asperges du 3 juin 2007 à Tubize</a> <font size="1">(212 photos)</font></li> 
+		<li> <a href="bqet2007/bqt2007.htm"target="_blank">Banquet de l'ANGCP au Relais du Marquis (Ittre) le 17 novembre 2007</a> <font size="1">(87 photos)</font></li>
+		<li> <a href="AG2008/AG2008.htm"target="_blank">Assemblée Générale du 16 mars 2008</a> <font size="1">(123 photos)</font></li>
+		<li><a href="asp2008/asp2008.htm" target="_blank">Banquet des asperges du 1er juin 2008 à Tubize </a><font size="1">(88 photos)</font></li>
+		<li><a href="AG2009/ag2009.html" target="_blank">Assemblée Générale à Erasme le 22 mars 2009</a><font size="1"> (110 photos)</font></li>
+	<li><a href="AG2010/index.html" target="_blank">Assemblée Générale à Erasme le 21 mars 2010</a><font size="1"> (99 photos)</font></li>		
+	</ul>
+	<p class="drte"><em>Dernière modification : <SCRIPT> document.write(DateModif())</SCRIPT></em></p>
+	<p> <a href="#debut"><img src="../images/up2.gif" class="bot"alt="top"></a></p>                               
+</div>
+</body>
+</html>

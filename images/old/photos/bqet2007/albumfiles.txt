@@ -1,0 +1,95 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+banquet_20_11_07_001.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_001.JPG
+banquet_20_11_07_002.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_002.JPG
+banquet_20_11_07_003.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_003.JPG
+banquet_20_11_07_004.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_004.JPG
+banquet_20_11_07_005.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_005.JPG
+banquet_20_11_07_006.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_006.JPG
+banquet_20_11_07_007.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_007.JPG
+banquet_20_11_07_008.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_008.JPG
+banquet_20_11_07_009.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_009.JPG
+banquet_20_11_07_010.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_010.JPG
+banquet_20_11_07_011.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_011.jpg
+banquet_20_11_07_012.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_012.JPG
+banquet_20_11_07_013.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_013.JPG
+banquet_20_11_07_014.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_014.jpg
+banquet_20_11_07_015.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_015.jpg
+banquet_20_11_07_016.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_016.JPG
+banquet_20_11_07_017.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_017.JPG
+banquet_20_11_07_018.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_018.JPG
+banquet_20_11_07_019.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_019.jpg
+banquet_20_11_07_020.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_020.jpg
+banquet_20_11_07_021.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_021.jpg
+banquet_20_11_07_022.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_022.jpg
+banquet_20_11_07_023.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_023.jpg
+banquet_20_11_07_024.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_024.JPG
+banquet_20_11_07_025.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_025.jpg
+banquet_20_11_07_026.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_026.JPG
+banquet_20_11_07_027.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_027.JPG
+banquet_20_11_07_028.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_028.jpg
+banquet_20_11_07_029.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_029.JPG
+banquet_20_11_07_030.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_030.JPG
+banquet_20_11_07_031.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_031.JPG
+banquet_20_11_07_032.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_032.JPG
+banquet_20_11_07_033.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_033.JPG
+banquet_20_11_07_034.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_034.JPG
+banquet_20_11_07_035.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_035.JPG
+banquet_20_11_07_036.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_036.JPG
+banquet_20_11_07_037.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_037.JPG
+banquet_20_11_07_038.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_038.JPG
+banquet_20_11_07_039.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_039.JPG
+banquet_20_11_07_040.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_040.JPG
+banquet_20_11_07_041.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_041.JPG
+banquet_20_11_07_042.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_042.JPG
+banquet_20_11_07_043.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_043.JPG
+banquet_20_11_07_044.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_044.JPG
+banquet_20_11_07_045.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_045.JPG
+banquet_20_11_07_046.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_046.JPG
+banquet_20_11_07_047.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_047.JPG
+banquet_20_11_07_048.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_048.jpg
+banquet_20_11_07_049.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_049.jpg
+banquet_20_11_07_050.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_050.jpg
+banquet_20_11_07_051.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_051.jpg
+banquet_20_11_07_052.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_052.JPG
+banquet_20_11_07_053.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_053.JPG
+banquet_20_11_07_054.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_054.JPG
+banquet_20_11_07_055.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_055.JPG
+banquet_20_11_07_056.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_056.JPG
+banquet_20_11_07_057.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_057.JPG
+banquet_20_11_07_058.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_058.JPG
+banquet_20_11_07_059.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_059.jpg
+banquet_20_11_07_060.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_060.JPG
+banquet_20_11_07_061.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_061.jpg
+banquet_20_11_07_062.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_062.JPG
+banquet_20_11_07_063.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_063.JPG
+banquet_20_11_07_064.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_064.JPG
+banquet_20_11_07_065.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_065.JPG
+banquet_20_11_07_066.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_066.jpg
+banquet_20_11_07_067.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_067.JPG
+banquet_20_11_07_068.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_068.JPG
+banquet_20_11_07_069.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_069.JPG
+banquet_20_11_07_070.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_070.JPG
+banquet_20_11_07_071.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_071.JPG
+banquet_20_11_07_072.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_072.JPG
+banquet_20_11_07_073.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_073.jpg
+banquet_20_11_07_074.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_074.JPG
+banquet_20_11_07_075.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_075.jpg
+banquet_20_11_07_076.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_076.JPG
+banquet_20_11_07_077.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_077.JPG
+banquet_20_11_07_078.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_078.JPG
+banquet_20_11_07_079.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_079.jpg
+banquet_20_11_07_080.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_080.JPG
+banquet_20_11_07_081.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_081.JPG
+banquet_20_11_07_082.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_082.JPG
+banquet_20_11_07_083.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_083.JPG
+banquet_20_11_07_084.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_084.JPG
+banquet_20_11_07_085.JPG	N:\photos\banquet 17 nov 2007\banquet_20_11_07_085.JPG
+banquet_20_11_07_086.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_086.jpg
+banquet_20_11_07_087.jpg	N:\photos\banquet 17 nov 2007\banquet_20_11_07_087.jpg
