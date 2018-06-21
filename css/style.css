@@ -56,6 +56,14 @@ table#pionniers tr td {
 	color: #ccc;
 }
 
+.main-content.allpages .breadcrumb a:link, .main-content.allpages .breadcrumb a:visited {
+	color: #000;
+}
+
+.main-content.allpages .breadcrumb a:hover {
+	color: #c30e2d;
+}
+
 .main-content ul {
   list-style: outside none none;
   margin-top: 13px;
