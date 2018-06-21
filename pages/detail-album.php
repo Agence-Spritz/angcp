@@ -1,3 +1,11 @@
+<?php 
+if (!isset($_SESSION['autorisation'])) {
+	print("<script type=\"text/javascript\">setTimeout('location=(\"en-images-photos--155--phototheque\")' ,10);</script>");
+	exit();
+} 
+?>
+
+
 <?php	// Requête pour récupérer le contenu de la page concernée
 		list($id, $titrep, $date, $rub, $textep) = mysqli_fetch_array(mysqli_query($link, "SELECT ID, titre, dbu, rub, texte FROM ".$table_prefix."_pages WHERE page='album' AND ID='$id' "));	
 		

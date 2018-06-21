@@ -158,11 +158,11 @@
     </section>
 
     <!-- SPONSORS -->
+<!--
     <section class="clients bg-theme-colored">
       <div class="container pt-0 pb-0">
         <div class="row">
           <div class="col-md-12">
-            <!-- Section: Clients -->
             <div class="owl-carousel-6col clients-logo transparent text-center">
               <div class="item"> <a href="#"><img src="images/clients/w1.png" alt=""></a></div>
               <div class="item"> <a href="#"><img src="images/clients/w2.png" alt=""></a></div>
@@ -179,5 +179,6 @@
         </div>
       </div>
     </section>
+-->
   </div>
   <!-- end main-content -->
