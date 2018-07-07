@@ -108,12 +108,13 @@ session_start(); ?>
 
               <li class="<?php if ($data_parente['id_page_parente']==156) { echo 'active'; } ?>"><a href="#">Le don d'organes</a>
                 <ul class="dropdown">
-	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '156' AND id<>'157' ORDER BY ID ASC"); 
+	                <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '156' AND id<>'157' AND id<>'243' ORDER BY ID ASC"); 
 				  			while ($data = mysqli_fetch_array($req)) {
 					?>
                       <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
                     <?php } ?>
                     <li class="<?php if ($id==157) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-belgique--157--faq">FAQ Don d'organes</a></li>
+                    <li class="<?php if ($id==243) { echo 'active'; } ?> surbrillance"><a href="faire-un-don--243--page">FAIRE UN DON</a></li>
                 </ul>
               </li>
 
@@ -153,7 +154,15 @@ session_start(); ?>
                   </ul>
                 </li>
 
-                <li class="<?php if ($id==135) { echo 'active'; } ?>"><a href="contact-angcp-greffe-coeur-poumon--135--contact" title="Contactez-nous">Contact</a></li>
+                <li class="<?php if ($id==135) { echo 'active'; } ?>"><a href="contact-angcp-greffe-coeur-poumon--135--contact" title="Contactez-nous">Contact</a>
+	                <ul class="dropdown">
+	                    <?php 	$req = mysqli_query($link,"SELECT ID, titre FROM ".$table_prefix."_pages WHERE page='page' AND id_page_parente = '135'ORDER BY ID ASC"); 
+					  			while ($data = mysqli_fetch_array($req)) {
+						?>
+	                      <li class="<?php if ($id==$data['ID']) { echo 'active'; } ?>"><a href="don-d-organes-coeur-poumons-infos--<?php echo $data['ID']; ?>--page"><?php echo $data['titre']; ?></a></li>
+	                    <?php } ?>
+	                </ul>
+	            </li>
             </ul>
           </nav>
         </div>
