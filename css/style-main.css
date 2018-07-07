@@ -1006,13 +1006,15 @@ section > .container-fluid {
   }
 }
 .menuzord-brand img {
-  max-height: 38px;
+  max-height: 68px;
 }
 @media only screen and (max-width: 767px) {
   .menuzord-brand img {
     max-height: 30px;
   }
 }
+
+
 /* -------- Custom theme style ---------- */
 .header-nav .header-nav-wrapper .menuzord {
   padding: 0;
