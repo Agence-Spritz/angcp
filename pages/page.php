@@ -34,7 +34,7 @@
 	              <ol class="breadcrumb text-center text-black mt-10">
 	                <li><a href="<?php echo $defaultpg; ?>.php">Accueil</a></li>
 	                <?php if($id_page_parente) { ?>
-	                	<li><a href="#"><?php echo $page_parente; ?></a></li>
+	                	<li><?php echo $page_parente; ?></li>
 		            <?php } ?>
 	                <li class="active text-theme-colored"><?php echo $titrep; ?></li>
 	              </ol>
