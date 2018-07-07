@@ -89,7 +89,7 @@ session_start(); ?>
 	<?php } ?>     
 	      
         <div class="container">
-          <nav id="menuzord-right" class="menuzord blue no-bg"><a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo $defaultpg; ?>.php" <?php if ($pg==$defaultpg) { echo 'active'; } else { echo ''; } ?>><img src="images/logo-wide.png" alt=""></a>
+          <nav id="menuzord-right" class="menuzord blue no-bg"><a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo $defaultpg; ?>.php" <?php if ($pg==$defaultpg) { echo 'active'; } else { echo ''; } ?>><img src="images/logo-old.jpg" alt=""></a>
             <ul class="menuzord-menu">
 	            <?php // On va chercher les pages parentes
 	        	$req_parente = mysqli_query($link,"SELECT ID, id_page_parente FROM ".$table_prefix."_pages WHERE page='page' and ID='".$id."'");
@@ -163,6 +163,15 @@ session_start(); ?>
 	                    <?php } ?>
 	                </ul>
 	            </li>
+	            
+	            <li><div id="google_translate_element"></div></li>
+	            <script type="text/javascript">
+					function googleTranslateElementInit() {
+					  new google.translate.TranslateElement({pageLanguage: 'fr', includedLanguages: 'nl', autoDisplay: false}, 'google_translate_element');
+					}
+					</script>
+					<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
             </ul>
           </nav>
         </div>

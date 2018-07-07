@@ -132,3 +132,46 @@ table#pionniers tr td {
 	background-color: #c30e2d;
 	color: #fff;
 }
+
+.goog-logo-link {
+   display:none !important;
+} 
+
+.goog-te-gadget{
+   color: transparent !important;
+}
+
+.google_translate_element {
+	padding: 8px 16px;
+}
+
+.goog-te-combo {
+	position: relative;
+	top: 4px;
+}
+
+.edito {
+	position: relative;
+}
+
+.edito iframe {
+	max-width: 500px;
+	display: inline-block
+}
+
+.edito img.loterie {
+position: relative;
+	top: 0px;
+	height: 60px;
+	display: inline-block	
+	
+	
+}
+
+@media only screen and (min-width: 968px) { 
+	
+	.edito img.loterie {
+		position: relative;
+		top: -70px ;
+	}
+}

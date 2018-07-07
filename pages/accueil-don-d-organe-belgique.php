@@ -59,7 +59,7 @@
 	            </div>
 	        <?php } ?>
 	        
-            <div class="col-md-8">
+            <div class="col-md-8 edito">
               <h3 class="text-gray">Edito</h3>
               <h2 class="mt-0 text-theme-colored"><?php echo $data['titre']; ?></h2>
               <p class="font-weight-600">
@@ -67,6 +67,7 @@
               </p>
               <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FANGCP.NVHL.asbl&tabs=timeline&width=500&height=70&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=235382260148315" width="500" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 <!--               <a href="#" class="btn btn-theme-colored mt-20 mb-sm-50">En savoir <i class="fa fa-plus"></i></a> -->
+				<img class="loterie" src="images/loterie.jpg" title="Loterie nationale" alt="Loterie nationale" /> 
             </div>
           </div>
         </div>
