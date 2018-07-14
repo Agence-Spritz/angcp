@@ -1,7 +1,7 @@
 <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: home -->
-    <section id="home" class="divider parallax fullscreen" data-stellar-background-ratio="0.4" data-bg-img="images/accueil-don-du-coeur-belgique.jpg">
+    <section id="home" class="divider parallax fullscreen" data-stellar-background-ratio="0.4" data-bg-img="images/accueil-don-du-coeur-belgique-2.jpg">
       <div class="display-table">
         <div class="display-table-cell">
           <div class="container pt-100 pb-100">
